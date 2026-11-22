@@ -52,6 +52,7 @@ tests/                node:test unit tests
 
 Push to GitHub, then Settings > Pages > Deploy from branch > `main` / root.
 GitHub Pages deployment enabled.
+GitHub Pages deployment enabled.
 
 ## Roadmap
 
