@@ -17,7 +17,14 @@ Malaysia-first, nutrition-first wellness app prototype. Static site, no build st
 
 ## Design
 
-Calm, organic-modern interface built on CSS design tokens (`src/styles.css`): warm neutral surfaces, deep botanical green, system font stack, SVG icons, bottom-sheet dialogs, toasts instead of browser alerts, intentional dark mode, 44px touch targets, visible focus rings, `prefers-reduced-motion` support, and text alternatives for all progress bars.
+Calm, organic-modern interface built on CSS design tokens (`src/styles.css`): warm neutral surfaces, deep botanical green, system font stack, SVG icons, bottom-sheet dialogs, toasts, intentional dark mode, 44px touch targets and visible focus rings.
+
+Motion communicates change, never decoration only:
+- activity rings, bars and the water glass animate from their previous value to the new one; counters count up
+- screens rise in with a short stagger on tab change only (not on every update)
+- meal-rhythm rail pulses on the next meal; logging a meal triggers a soft falling-leaf burst
+- scan viewfinder with a sweeping beam and staged "analysing" status; Coach typing indicator; breathing orb
+- everything respects `prefers-reduced-motion` (animations off, values update instantly)
 
 ## Run
 
