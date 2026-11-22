@@ -15,6 +15,10 @@ Malaysia-first, nutrition-first wellness app prototype. Static site, no build st
 - **Coach**: rule-based preview (no LLM)
 - Hide calories, Focus-Friendly Mode, data export and delete. All data stays in the browser (`localStorage`)
 
+## Design
+
+Calm, organic-modern interface built on CSS design tokens (`src/styles.css`): warm neutral surfaces, deep botanical green, system font stack, SVG icons, bottom-sheet dialogs, toasts instead of browser alerts, intentional dark mode, 44px touch targets, visible focus rings, `prefers-reduced-motion` support, and text alternatives for all progress bars.
+
 ## Run
 
 ES modules need a web server (opening `index.html` directly will not work):
@@ -31,7 +35,8 @@ index.html
 src/
   app.js              UI and event handlers
   styles.css          design tokens, light/dark
-  storage.js          localStorage state
+  storage.js          localStorage state (sanitised on load)
+  icons.js            inline SVG icon set
   util.js
   data/foods.js       DEV food data (replace with sourced records)
   domain/
@@ -51,8 +56,6 @@ tests/                node:test unit tests
 ## Deploy on GitHub Pages
 
 Push to GitHub, then Settings > Pages > Deploy from branch > `main` / root.
-GitHub Pages deployment enabled.
-GitHub Pages deployment enabled.
 
 ## Roadmap
 
