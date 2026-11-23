@@ -1,8 +1,11 @@
-# Architecture Decision (prototype)
-- **Client:** single-file vanilla JS PWA (no build step) so it runs anywhere and deploys to GitHub Pages.
-- **Storage:** browser localStorage; all data stays on device. Export/delete in Profile.
-- **Data:** static JSON in `data/`. Nutrition is `null` until sourced values are imported.
-- **Intelligence:** deterministic rules (targets, nutrient gaps, allergy filtering, suggestions); Coach only explains these results.
-- **Vision:** mock adapter, visibly labelled. Replace `analyse()` with a provider behind a typed interface.
-- **Production path:** TypeScript React Native/Expo client, typed API (Fastify/NestJS), PostgreSQL, S3-compatible storage, job scheduler for notifications. Modular monolith, no microservices.
-- **Safety:** allergies are hard filters before ranking; no diagnosis; no shame language; demo targets are not clinical.
+# Architecture decisions (current prototype)
+
+- **Client:** a single-file web app in plain HTML, CSS and JavaScript. No build step, so it runs from any static host (GitHub Pages).
+- **Storage:** browser localStorage. Data never leaves the device. Export and delete are in the profile sheet.
+- **Data:** static JSON in `data/`. Nutrition stays null until a sourced value is imported.
+- **Logic:** deterministic rules for targets, nutrient gaps, allergy filtering, suggestions, meal timing, day balance and dashboard insights. The Coach only explains results these rules produce.
+- **Dashboard:** `dstat()` computes pace against time of day (assuming a 7:00 AM to 10:00 PM day), meal gaps, energy or protein distribution by period, recent trend and ranked improvements. `dashHTML()` renders it; `tickDash()` refreshes it every 30 seconds.
+- **Scan:** a placeholder adapter behind `analyse()`. Replace it with a real image-recognition provider; the review, portion and confirmation steps already exist.
+- **Safety:** allergies are hard filters applied before ranking. No diagnosis, no shame language, demo targets are not clinical advice. Missing data is never scored as poor.
+- **Accessibility:** labelled controls, scalable text, Reduce Motion support, text alternatives for charts.
+- **Production path:** typed client (React Native or similar), typed API, relational database, S3-compatible storage, job scheduler for reminders, as a modular monolith.

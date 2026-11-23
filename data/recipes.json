@@ -1,6 +1,6 @@
 {
  "book": "Ensiklopedia Masakan Malaysia - Gigantic Edisi 7 (Bahan Lengkap)",
- "note": "Nutrition is null: the book contains no nutrient values. Import sourced values (e.g. MyFCD) separately. Entries with drafted=true were completed by Claude from standard methods (book had base lists only) and need verification. draft_level=outline marks very short drafts (vague quantities) that need real recipe sources.",
+ "note": "Nutrition is null unless a sourced value is published: the book contains no nutrient values. Entries with drafted=true were completed from standard cooking methods (the book only lists base ingredients) and need verification. draft_level=outline marks very short drafts with vague quantities. web_sourced=true entries come from the Ministry of Health Resipi Sihat booklet (quantities and nutrition as published, wording rewritten).",
  "recipes": [
   {
    "id": 1,
@@ -40,29 +40,50 @@
   },
   {
    "id": 2,
-   "title": "Nasi ayam",
+   "title": "Nasi ayam (versi Resipi Sihat KKM)",
    "ingredients": [
-    "1 ekor ayam (1.2 kg)",
-    "2 cawan beras basmati",
-    "1 biji bawang besar",
-    "4 ulas bawang putih",
-    "3 cm halia",
-    "3 helai daun pandan",
-    "2 sudu besar minyak",
-    "garam",
-    "timun dan sambal cili untuk hidang"
+    "270 g (1⅓ cawan) beras",
+    "15 g minyak sayuran",
+    "600 ml air rebusan ayam",
+    "30 g bawang merah, dihiris",
+    "5 g bawang putih, dihiris",
+    "20 g halia, dihiris",
+    "kulit kayu manis, 3 biji bunga lawang, 2 biji buah pelaga, 1 helai daun pandan",
+    "750 g ayam, buang kulit dan lemak, potong lima",
+    "2 liter air untuk merebus ayam",
+    "9 g garam",
+    "2 g jintan manis, 2 g jintan putih, 3 g lada hitam, 20 g kicap pekat (perapan)",
+    "Sup: 10 g bawang putih, 15 g halia, 2 g lada hitam, 50 g daun sup, 1 liter air rebusan ayam, 15 ml minyak",
+    "Sos cili: 75 g cili merah dan 10 g bawang putih dikisar, 60 g sos cili, 3 g garam, 5 g gula",
+    "Hidangan: 170 g timun, 300 g tomato, 125 g daun salad"
    ],
    "steps": [
-    "Rebus ayam dengan halia dan garam 30 minit, angkat dan simpan air rebusan.",
-    "Tumis bawang, bawang putih, halia dan pandan hingga wangi, masukkan beras.",
-    "Tuang 3½ cawan air rebusan dan garam, masak hingga nasi kering dan masak.",
-    "Hidang nasi dengan ayam dihiris, timun dan sambal."
+    "Rebus ayam dengan bawang merah, bawang putih, halia dan garam hingga masak, simpan air rebusan.",
+    "Perap ayam dengan campuran rempah sekurang-kurangnya 30 minit, panggang bertutup 150°C selama 20 minit, biarkan dalam ketuhar, kemudian buka penutup dan panggang 5 minit lagi.",
+    "Tumis bawang, halia dan rempah sepah hingga kuning, masukkan beras dan air rebusan ayam serta pandan, masak nasi.",
+    "Sup: tumis bawang putih dan halia, tambah air rebusan dan lada hitam, didih dan taburkan daun sup.",
+    "Kisar bahan sos, hidang semua bersama timun, tomato dan salad."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Kementerian Kesihatan Malaysia, Resipi Sihat Jilid 1/2011 (analisis nutrien UKM diet4)",
    "complete": true,
    "generic_placeholder": false,
-   "nutrition": null,
-   "drafted": true
+   "nutrition": {
+    "per_serving": {
+     "kcal": 457,
+     "carb_g": 46.67,
+     "fat_g": 13,
+     "protein_g": 38.24,
+     "calcium_mg": 48.78,
+     "iron_mg": 5.06,
+     "cholesterol_mg": 10.81
+    },
+    "servings": 5,
+    "basis": "per serving as published",
+    "note": "Analysed by UKM diet4 per MOH booklet; applies to the MOH version of this recipe"
+   },
+   "drafted": false,
+   "source_url": "https://www2.moh.gov.my/moh/resources/Penerbitan/Rujukan/NCD/Diabetes/02.Layout_Resepi_Sihat_.pdf",
+   "web_sourced": true
   },
   {
    "id": 3,
@@ -80,7 +101,7 @@
     "Kukus bersama pandan 30 minit hingga masak.",
     "Kuis dan hidang bersama rendang atau kari."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -103,7 +124,7 @@
     "Gaul bersama kelapa sangrai.",
     "Hidang bersama nasi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -128,7 +149,7 @@
     "Susun nasi dengan tauge, timun, daun kesum dan kelapa sangrai.",
     "Hidang dengan ikan goreng, solok lada dan budu."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -152,7 +173,7 @@
     "Tuang santan dan air secukupnya, masak hingga kering.",
     "Hidang dengan gulai ikan tongkol."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -172,7 +193,7 @@
     "Sejukkan hingga keras, potong empat segi.",
     "Hidang dengan kuah kacang atau lauk."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -197,7 +218,7 @@
     "Pecahkan telur, kacau, masukkan nasi, sos cili dan kicap.",
     "Gaul rata api besar 3 minit, rasa garam dan hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -220,7 +241,7 @@
     "Masukkan kelapa sangrai, ikan bilis dan garam.",
     "Hidang dengan sambal belacan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -242,7 +263,7 @@
     "Toskan, sejukkan dan potong.",
     "Hidang dengan kuah kacang atau rendang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -264,7 +285,7 @@
     "Isi pulut, tuang santan bergaram.",
     "Bakar atas bara 4 jam sambil diputar."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -285,7 +306,7 @@
     "Kukus dalam periuk kera 30 minit.",
     "Hidang dengan serunding."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -308,7 +329,7 @@
     "Isi dalam pulut, bungkus daun pisang.",
     "Panggang hingga wangi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -336,7 +357,7 @@
     "Tambah sawi, taugeh, tauhu dan kentang.",
     "Tolak ke tepi, goreng telur, gaul rata dan hidang dengan limau."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -363,7 +384,7 @@
     "Masukkan air rebusan ikan, asam keping dan daun kesum, reneh 30 minit.",
     "Masukkan isi ikan, hidang atas laksa dengan sayuran."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -371,29 +392,34 @@
   },
   {
    "id": 16,
-   "title": "Char kway teow Pulau Pinang",
+   "title": "Char kuey teow (versi Resipi Sihat KKM)",
    "ingredients": [
-    "300 g kuey teow",
-    "100 g udang",
-    "2 biji telur",
-    "100 g taugeh",
-    "3 ulas bawang putih",
-    "2 sudu besar kicap manis",
-    "1 sudu besar sos cili",
-    "daun kucai",
-    "2 sudu besar minyak"
+    "350 g (3 cawan) kuey teow",
+    "200 g taugeh",
+    "200 g daun sawi",
+    "150 g udang, dibuang kepala, perut, ekor dan kulit",
+    "20 g kicap pekat",
+    "10 g kicap cair",
+    "30 g minyak sayuran",
+    "3 g lada sulah",
+    "3 g garam",
+    "Ditumbuk: 30 g bawang merah, 15 g bawang putih, 25 g cili merah",
+    "Hiasan: 25 g cili merah, 1 biji limau kasturi",
+    "Sos cili: 10 g bawang putih, 100 g cili merah, 60 g sos tomato, 3 g garam"
    ],
    "steps": [
-    "Panaskan wok sangat panas dengan minyak, tumis bawang putih dan udang.",
-    "Masukkan kuey teow, kicap dan sos cili.",
-    "Tolak ke tepi, pecahkan telur dan kacau.",
-    "Masukkan taugeh dan kucai, gaul 1 minit dan hidang."
+    "Tumis bahan tumbuk hingga kuning, masukkan udang.",
+    "Masukkan kicap, sawi dan taugeh, kacau.",
+    "Masukkan kuey teow, garam dan lada sulah, gaul rata.",
+    "Hias dengan cili dan limau kasturi, hidang panas bersama sos cili."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Kementerian Kesihatan Malaysia, Resipi Sihat Jilid 1/2011 (analisis nutrien UKM diet4)",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
-   "drafted": true
+   "drafted": false,
+   "source_url": "https://www2.moh.gov.my/moh/resources/Penerbitan/Rujukan/NCD/Diabetes/02.Layout_Resepi_Sihat_.pdf",
+   "web_sourced": true
   },
   {
    "id": 17,
@@ -414,7 +440,7 @@
     "Tumis, masukkan stok ikan dan santan, reneh 20 minit.",
     "Hidang atas spageti dengan sayuran."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -443,7 +469,7 @@
     "Kacau perlahan 2 jam hingga santan menyusut.",
     "Masukkan kerisik, garam dan gula, masak hingga kering dan gelap."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -467,7 +493,7 @@
     "Masukkan daging dan kelapa, kacau api kecil 1 jam.",
     "Masak hingga kering dan rangup."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -530,7 +556,7 @@
     "Bakar atas bara 1 jam sambil diputar.",
     "Hidang bersama nasi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -557,7 +583,7 @@
     "Masukkan asam keping dan daun kesum, reneh 5 minit.",
     "Masukkan ikan, bendi dan tomato, masak 10 minit, rasa garam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -581,7 +607,7 @@
     "Masukkan ikan dan daun kesum.",
     "Reneh 10 minit, rasa garam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -606,7 +632,7 @@
     "Bakar atas bara 8 minit setiap sisi.",
     "Hidang dengan limau dan nasi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -630,7 +656,7 @@
     "Masukkan umbut hingga lembut.",
     "Tuang santan, reneh 5 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -655,7 +681,7 @@
     "Masukkan kepala ikan, bendi dan tomato.",
     "Masukkan santan, reneh 10 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -679,7 +705,7 @@
     "Masukkan daging dan air, reneh 1 jam.",
     "Masukkan santan, masak hingga pekat."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -703,7 +729,7 @@
     "Tambah air dan gula, reneh hingga pekat.",
     "Rasa garam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -726,7 +752,7 @@
     "Goreng hingga garing.",
     "Hidang bersama nasi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -749,7 +775,7 @@
     "Bungkus dalam daun pisang.",
     "Kukus 30 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -771,7 +797,7 @@
     "Tuang teh panas.",
     "Tarik berulang kali antara dua bekas hingga berbuih."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -795,7 +821,7 @@
     "Cairkan gula Melaka dengan ½ cawan air.",
     "Susun ais, cendol, kacang merah, santan dan gula Melaka."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -818,7 +844,7 @@
     "Tuang sirap dan susu pekat.",
     "Hidang segera."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -838,7 +864,7 @@
     "Tambah ais.",
     "Hidang sejuk."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -860,7 +886,7 @@
     "Campur selasih.",
     "Tuang ais dan sirap."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -868,27 +894,39 @@
   },
   {
    "id": 36,
-   "title": "Hinava/Umai",
+   "title": "Hinava ikan (Sabah)",
    "ingredients": [
-    "300 g ikan tenggiri segar",
-    "3 biji limau nipis",
-    "2 biji bawang merah",
-    "2 cm halia",
-    "2 biji cili merah",
-    "1 batang bunga kantan",
-    "garam"
+    "1 kg ikan tenggiri segar",
+    "½ biji peria, dihiris halus dan digaul dengan garam lalu dibasuh",
+    "1 cawan jus limau nipis",
+    "4 sudu besar biji mangga atau bambangan, diparut dan dikeringkan",
+    "1 sudu besar garam",
+    "4 biji cili merah, dihiris halus"
    ],
    "steps": [
-    "Hiris nipis ikan.",
-    "Rendam dalam jus limau 20 minit, toskan.",
-    "Campur bawang, halia, cili, bunga kantan dan garam.",
-    "Gaul bersama ikan, sejukkan dan hidang."
+    "Pastikan semua bahan segar dan bersih kerana hidangan ini tidak dimasak.",
+    "Campur semua bahan dalam mangkuk dan gaul rata.",
+    "Biarkan 10 minit sebelum dihidang bersama nasi panas dan sambal belacan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Kementerian Kesihatan Malaysia, Resipi Sihat Jilid 1/2011 (analisis nutrien UKM diet4)",
    "complete": true,
    "generic_placeholder": false,
-   "nutrition": null,
-   "drafted": true
+   "nutrition": {
+    "per_serving": {
+     "kcal": 140,
+     "carb_g": 3.9,
+     "fat_g": 4.1,
+     "protein_g": 21.4,
+     "fibre_g": 3,
+     "iron_mg": 16.5
+    },
+    "servings": 10,
+    "basis": "per serving as published",
+    "note": "Analysed by UKM diet4 per MOH booklet; applies to the MOH version of this recipe"
+   },
+   "drafted": false,
+   "source_url": "https://www2.moh.gov.my/moh/resources/Penerbitan/Rujukan/NCD/Diabetes/02.Layout_Resepi_Sihat_.pdf",
+   "web_sourced": true
   },
   {
    "id": 37,
@@ -905,7 +943,7 @@
     "Padatkan dalam balang.",
     "Perap 1 minggu dalam bekas bersih."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -925,7 +963,7 @@
     "Padatkan dalam balang bersih.",
     "Perap 3 hari suhu bilik."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -950,7 +988,7 @@
     "Bungkus dengan daun pisang.",
     "Bakar hingga masak."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -972,7 +1010,7 @@
     "Masukkan gula dan garam.",
     "Perah limau kasturi dan gaul sebelum hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -993,7 +1031,7 @@
     "Tambah gula dan limau.",
     "Hidang dengan nasi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1019,7 +1057,7 @@
     "Cucuk pada lidi.",
     "Bakar atas bara sambil disapu minyak, hidang dengan kuah kacang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1043,7 +1081,7 @@
     "Tuang sos plum dan minyak bijan.",
     "Gaul beramai-ramai."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1067,7 +1105,7 @@
     "Bungkus dalam daun pisang.",
     "Bakar."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1091,7 +1129,7 @@
     "Reneh 1 jam.",
     "Rendam semalaman."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1114,7 +1152,7 @@
     "Campur gula dan limau.",
     "Gaul dengan mangga."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1138,7 +1176,7 @@
     "Rendam sayur 2 jam.",
     "Taburkan kacang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1160,7 +1198,7 @@
     "Goreng hingga kuning keemasan.",
     "Tos, golek dalam gula yang dikerak."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1182,7 +1220,7 @@
     "Isi dan bungkus dengan daun pisang.",
     "Kukus 20 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1205,7 +1243,7 @@
     "Tuang adunan dalam acuan panas.",
     "Bakar api atas bawah hingga perang keemasan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1229,7 +1267,7 @@
     "Kukus adunan atas pulut 30 minit.",
     "Sejukkan dan potong."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1251,7 +1289,7 @@
     "Tuang dalam acuan.",
     "Kukus 25 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1273,7 +1311,7 @@
     "Tuang dalam loyang.",
     "Bakar 180°C 40 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1294,7 +1332,7 @@
     "Masak hingga pekat.",
     "Kukus 2 jam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1316,7 +1354,7 @@
     "Bentuk bulat.",
     "Bakar 180°C 20 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1338,7 +1376,7 @@
     "Tuang adunan dalam minyak panas dalam bentuk cincin.",
     "Goreng hingga perang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1362,7 +1400,7 @@
     "Taburkan gula, kacang dan jagung.",
     "Lipat dua dan potong."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1386,7 +1424,7 @@
     "Goreng dalam minyak panas hingga keemasan.",
     "Tos dan hidang panas."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1408,7 +1446,7 @@
     "Sejuk, hiris nipis.",
     "Jemur dan goreng."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1432,7 +1470,7 @@
     "Letak inti atas doh bulat, lipat dan kelim.",
     "Goreng hingga keemasan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1455,7 +1493,7 @@
     "Rebus hingga timbul.",
     "Golek dalam kelapa parut bergaram."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1478,7 +1516,7 @@
     "Masak kedua belah.",
     "Hidang bersama kuah."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1500,7 +1538,7 @@
     "Tuang dalam acuan bahulu yang disapu minyak.",
     "Bakar 180°C selama 12 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1521,7 +1559,7 @@
     "Tuang dalam loyang.",
     "Sejukkan, potong."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1541,7 +1579,7 @@
     "Kacau hingga pekat.",
     "Jemur dan potong."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1564,7 +1602,7 @@
     "Campur dengan pulut.",
     "Tekan dalam loyang dan sejukkan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1587,7 +1625,7 @@
     "Tuang atas pulut.",
     "Kukus 30 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1610,7 +1648,7 @@
     "Kacau hingga pekat.",
     "Tuang, sejukkan dan potong."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1630,7 +1668,7 @@
     "Gaul dengan ragi.",
     "Simpan 2 hari dalam bekas tertutup."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1650,7 +1688,7 @@
     "Picit melalui acuan jadi mi halus.",
     "Kukus 10 minit dengan gula dan kelapa."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1672,7 +1710,7 @@
     "Goreng hingga perang.",
     "Tos."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1695,7 +1733,7 @@
     "Masak 30 saat tanpa dibalik.",
     "Lipat dan hidang dengan kari."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1718,7 +1756,7 @@
     "Goreng atas tawa panas hingga keperangan.",
     "Hentak untuk kerangup dan hidang dengan dhal."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1740,7 +1778,7 @@
     "Tuang atas tawa panas, lebarkan nipis.",
     "Masak hingga perang, hidang dengan chutney."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1762,7 +1800,7 @@
     "Masukkan dan masak hingga pekat.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1785,7 +1823,7 @@
     "Masukkan santan dan garam, panaskan sebentar.",
     "Hidang suam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1808,7 +1846,7 @@
     "Reneh 10 minit.",
     "Hidang dengan sos cili."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1833,7 +1871,7 @@
     "Masukkan santan dan garam.",
     "Hidang kuah atas mi, tauhu dan taugeh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1855,7 +1893,7 @@
     "Campur dan masukkan gelatin.",
     "Sejukkan dalam peti ais."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1876,7 +1914,7 @@
     "Reneh 10 minit.",
     "Hidang panas."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1897,7 +1935,7 @@
     "Rebus gula dan halia.",
     "Hidang atas tauhu."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1920,7 +1958,7 @@
     "Reneh santan dan gula.",
     "Campurkan semua."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1943,7 +1981,7 @@
     "Isi dalam kulit dan gulung.",
     "Goreng."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1965,7 +2003,7 @@
     "Hidang bersama sos.",
     "Makan segera."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -1973,22 +2011,38 @@
   },
   {
    "id": 85,
-   "title": "Ambuyat/Pinantung",
+   "title": "Ambuyat dengan kuah ikan dan pucuk paku",
    "ingredients": [
-    "2 cawan tepung sagu",
-    "2 cawan air panas"
+    "Ambuyat: 500 g sagu rumbia, 2 cawan air untuk rendam, air panas yang baru dididihkan",
+    "Kuah ikan: 500 g tongkol atau tenggiri, 30 g bawang merah, 10 g bawang putih, 10 g halia, 3 g cili padi, 30 g serai diketuk, 5 keping asam keping, 5 g garam, 375 ml air",
+    "Sayur: 500 g pucuk paku, 2 g garam, 10 g minyak, 20 g bawang merah, 10 g belacan, 125 ml air, 1 biji cili merah"
    ],
    "steps": [
-    "Larutkan tepung dengan air sejuk.",
-    "Tuang air panas, kacau hingga lut sinar.",
-    "Gulung dengan penyepit.",
-    "Hidang dengan sambal."
+    "Rendam sagu dalam 2 cawan air 10 minit, buang air, kemudian bancuh dengan air panas yang baru mendidih, kacau hingga jernih dan likat.",
+    "Masak ikan dengan semua bahan kuah hingga masak.",
+    "Tumis bawang dan belacan, masukkan pucuk paku, garam dan air hingga lembut.",
+    "Makan ambuyat dengan candas, celup dalam kuah ikan dan hidang dengan pucuk paku."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Kementerian Kesihatan Malaysia, Resipi Sihat Jilid 1/2011 (analisis nutrien UKM diet4)",
    "complete": true,
    "generic_placeholder": false,
-   "nutrition": null,
-   "drafted": true
+   "nutrition": {
+    "per_serving": {
+     "kcal": 523,
+     "carb_g": 99.4,
+     "fat_g": 4.6,
+     "protein_g": 21.4,
+     "fibre_g": 1.4,
+     "cholesterol_mg": 31,
+     "iron_mg": 16.2
+    },
+    "servings": 5,
+    "basis": "per serving as published",
+    "note": "Analysed by UKM diet4 per MOH booklet; applies to the MOH version of this recipe"
+   },
+   "drafted": false,
+   "source_url": "https://www2.moh.gov.my/moh/resources/Penerbitan/Rujukan/NCD/Diabetes/02.Layout_Resepi_Sihat_.pdf",
+   "web_sourced": true
   },
   {
    "id": 86,
@@ -2005,7 +2059,7 @@
     "Padatkan dalam balang.",
     "Perap 3 hari."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2026,7 +2080,7 @@
     "Simpan dalam balang kedap.",
     "Tapai terhasil dalam 3 hari (dewasa sahaja)."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2050,7 +2104,7 @@
     "Gaul bersama buah dan tauhu.",
     "Taburkan kacang tumbuk."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2071,7 +2125,7 @@
     "Kukus dalam acuan.",
     "Taburkan kelapa."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2094,7 +2148,7 @@
     "Letak inti atas doh, lipat segi empat.",
     "Goreng atas tawa hingga keperangan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2102,24 +2156,37 @@
   },
   {
    "id": 91,
-   "title": "Capati",
+   "title": "Capati (versi Resipi Sihat KKM)",
    "ingredients": [
-    "2 cawan tepung atta",
-    "¾ cawan air",
-    "½ sudu teh garam",
-    "1 sudu besar minyak"
+    "400 g (4 cawan) tepung atta (untuk 10 keping)",
+    "150 ml (¾ cawan) air",
+    "10 g marjerin lembut (pilihan)"
    ],
    "steps": [
-    "Uli semua bahan jadi doh, rehat 30 minit.",
-    "Bentuk bebola dan lebarkan nipis.",
-    "Masak atas tawa panas hingga timbul gelembung.",
-    "Balikkan dan masak hingga berbintik perang."
+    "Gaul tepung dengan air sedikit demi sedikit jadi doh sebati.",
+    "Uli dan rehatkan 1–2 jam, tutup dengan kain lembap.",
+    "Bahagi 10, canai sebesar pinggan sederhana.",
+    "Masak atas kuali rata panas, balikkan bila bertukar warna dan tekan dengan kain bersih supaya naik."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Kementerian Kesihatan Malaysia, Resipi Sihat Jilid 1/2011 (analisis nutrien UKM diet4)",
    "complete": true,
    "generic_placeholder": false,
-   "nutrition": null,
-   "drafted": true
+   "nutrition": {
+    "per_serving": {
+     "kcal": 150,
+     "carb_g": 31.25,
+     "fat_g": 1,
+     "protein_g": 4,
+     "calcium_mg": 13,
+     "iron_mg": 1.9
+    },
+    "servings": 10,
+    "basis": "per serving as published",
+    "note": "Analysed by UKM diet4 per MOH booklet; applies to the MOH version of this recipe"
+   },
+   "drafted": false,
+   "source_url": "https://www2.moh.gov.my/moh/resources/Penerbitan/Rujukan/NCD/Diabetes/02.Layout_Resepi_Sihat_.pdf",
+   "web_sourced": true
   },
   {
    "id": 92,
@@ -2140,7 +2207,7 @@
     "Goreng hingga keemasan dan rangup.",
     "Tos dan hidang dengan cili."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2163,7 +2230,7 @@
     "Masukkan gula dan garam.",
     "Masak hingga pekat."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2186,7 +2253,7 @@
     "Masukkan ikan dan daun kayu.",
     "Reneh 15 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2213,7 +2280,7 @@
     "Reneh 25 minit.",
     "Masukkan santan dan asam jawa, rasa garam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2239,7 +2306,7 @@
     "Masukkan beras dan air secukupnya.",
     "Masak api kecil hingga nasi masak."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2264,7 +2331,7 @@
     "Tuang santan.",
     "Reneh hingga pekat, rasa gula dan garam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2289,7 +2356,7 @@
     "Tambah 1½ cawan air, gula Melaka dan kicap.",
     "Reneh 30 minit hingga pekat."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2312,7 +2379,7 @@
     "Masukkan ayam.",
     "Reneh 30 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2336,7 +2403,7 @@
     "Masukkan udang dan jantung pisang.",
     "Tuang santan, reneh hingga lembut."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2357,7 +2424,7 @@
     "Bungkus dalam daun berlubang.",
     "Perap 36 jam hingga berkulat putih."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2381,7 +2448,7 @@
     "Masukkan tomato dan kacang pis.",
     "Reneh 15 minit hingga kering."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2403,7 +2470,7 @@
     "Tambah kentang.",
     "Reneh dengan santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2427,7 +2494,7 @@
     "Tuang air.",
     "Masukkan santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2448,7 +2515,7 @@
     "Simpan dalam bekas bersih 3 bulan.",
     "Tapis dan simpan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2472,7 +2539,7 @@
     "Tuang air dan garam.",
     "Masak hingga nasi masak."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2494,7 +2561,7 @@
     "Gaul sebahagian dengan pulut.",
     "Hidang dengan durian."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2515,7 +2582,7 @@
     "Kukus 30 minit.",
     "Hidang dengan kuah."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2537,7 +2604,7 @@
     "Bakar 3 jam.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2560,7 +2627,7 @@
     "Bakar atau goreng.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2583,7 +2650,7 @@
     "Masukkan midin.",
     "Goreng 3 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2609,7 +2676,7 @@
     "Reneh hingga beras hancur.",
     "Masukkan santan, garam dan daun sup."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2632,7 +2699,7 @@
     "Siram sirap dan susu pekat.",
     "Tuang gula Melaka."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2654,7 +2721,7 @@
     "Bakar satu lapis nipis 10 minit di bawah api atas.",
     "Ulang lapis demi lapis."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2675,7 +2742,7 @@
     "Masak sebentar.",
     "Angkat."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2698,7 +2765,7 @@
     "Celup dalam adunan.",
     "Goreng hingga perang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2720,7 +2787,7 @@
     "Tekan dalam acuan.",
     "Bakar."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2743,7 +2810,7 @@
     "Tekan dalam acuan.",
     "Bakar 160°C 20 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2764,7 +2831,7 @@
     "Sejukkan.",
     "Potong dan salut kelapa."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2787,7 +2854,7 @@
     "Goreng.",
     "Tos."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2809,7 +2876,7 @@
     "Tuang dalam acuan.",
     "Kukus."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2831,7 +2898,7 @@
     "Kukus.",
     "Siram dengan sirap."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2853,7 +2920,7 @@
     "Bentuk siput.",
     "Bakar."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2876,7 +2943,7 @@
     "Isi dengan inti dan bulatkan.",
     "Kukus 15 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2897,7 +2964,7 @@
     "Tos.",
     "Salut gula."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2919,7 +2986,7 @@
     "Masak hingga pekat.",
     "Kukus."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2941,7 +3008,7 @@
     "Bentuk dalam acuan.",
     "Bakar hingga kering."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2962,7 +3029,7 @@
     "Sejukkan.",
     "Potong."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -2985,7 +3052,7 @@
     "Isi inti.",
     "Gulung."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3007,7 +3074,7 @@
     "Goreng.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3029,7 +3096,7 @@
     "Sejukkan.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3049,7 +3116,7 @@
     "Sejukkan dengan segera.",
     "Minum dalam sehari."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3068,7 +3135,7 @@
     "Hidang sejuk.",
     "Jangan campur alkohol."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3092,7 +3159,7 @@
     "Letak kacang tanah.",
     "Goreng hingga rangup."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3113,7 +3180,7 @@
     "Rebus dalam santan.",
     "Reneh 30 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3135,7 +3202,7 @@
     "Kukus.",
     "Sejukkan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3157,7 +3224,7 @@
     "Kukus.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3181,7 +3248,7 @@
     "Masukkan kicap dan gula.",
     "Gaul dengan ikan bilis."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3202,7 +3269,7 @@
     "Masak sehingga pekat.",
     "Beku."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3225,7 +3292,7 @@
     "Gaul separuh santan dengan pulut.",
     "Hidang dengan mangga."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3246,7 +3313,7 @@
     "Goreng.",
     "Tos."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3267,7 +3334,7 @@
     "Tuang adunan.",
     "Goreng."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3289,7 +3356,7 @@
     "Isi inti.",
     "Cetak dan kukus."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3315,7 +3382,7 @@
     "Kacau 3 jam hingga kering.",
     "Masukkan kerisik."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3335,7 +3402,7 @@
     "Gaul gula dan kelapa.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3360,7 +3427,7 @@
     "Tuang kuah kacang manis pedas.",
     "Hidang segera."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3383,7 +3450,7 @@
     "Masukkan bendi.",
     "Masak 5 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3405,7 +3472,7 @@
     "Campur tepung.",
     "Kukus."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3428,7 +3495,7 @@
     "Masukkan ikan.",
     "Reneh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3450,7 +3517,7 @@
     "Masukkan ikan.",
     "Reneh 10 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3472,7 +3539,7 @@
     "Tuang santan.",
     "Reneh 30 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3494,7 +3561,7 @@
     "Masukkan pisang.",
     "Gaul."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3516,7 +3583,7 @@
     "Padatkan dalam balang.",
     "Perap 2 hari."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3537,7 +3604,7 @@
     "Biarkan 10 minit.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3559,7 +3626,7 @@
     "Rebus.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3581,7 +3648,7 @@
     "Masukkan pakis.",
     "Goreng."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3605,7 +3672,7 @@
     "Rendam mi sebentar dalam air panas dan toskan.",
     "Gaul mi dengan minyak bawang, ayam dan sawi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3626,7 +3693,7 @@
     "Masak jadi bubur.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3648,7 +3715,7 @@
     "Kukus.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3670,7 +3737,7 @@
     "Masukkan ikan.",
     "Reneh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3691,7 +3758,7 @@
     "Campur gula apong.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3714,7 +3781,7 @@
     "Masukkan mi.",
     "Goreng."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3736,7 +3803,7 @@
     "Rendam.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3758,7 +3825,7 @@
     "Gaul.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3767,29 +3834,47 @@
   },
   {
    "id": 165,
-   "title": "Laksa Sarawak",
+   "title": "Laksa Sarawak (versi Resipi Sihat KKM)",
    "ingredients": [
-    "300 g bihun",
+    "Santan 1 liter daripada 100 g kelapa parut",
+    "200 g mee hoon, direndam 15 minit",
+    "100 g isi ayam, direbus dan disiat",
+    "100 g taugeh, dicelur",
     "200 g udang",
-    "1 biji telur dadar",
-    "taugeh",
-    "1 sudu besar pes laksa Sarawak",
-    "1 cawan santan",
-    "500 ml stok udang",
-    "daun ketumbar",
-    "limau"
+    "2 biji telur, didadar dan dihiris",
+    "20 g daun ketumbar",
+    "250 g timun, 250 g daun salad",
+    "20 g (4 keping) asam keping",
+    "9 g garam, 500 ml air",
+    "Rempah kisar: 20 g bawang putih, 50 g bawang merah, 60 g belacan, 10 g lengkuas, 15 g buah keras, 30 g cili kering, 20 g serai, 20 g minyak, 30 g kacang tanah goreng dan ditumbuk kasar"
    ],
    "steps": [
-    "Tumis pes laksa hingga wangi.",
-    "Masukkan stok udang dan santan, reneh 10 minit.",
-    "Susun bihun, taugeh, udang dan telur dadar.",
-    "Tuang kuah dan hidang dengan limau."
+    "Rebus ayam dan udang dalam 2 cawan air, siat ayam dan simpan air rebusan.",
+    "Celur mee hoon dan taugeh.",
+    "Tumis rempah kisar hingga masak, tuang santan dan asam keping sambil dikacau supaya tidak pecah minyak.",
+    "Masukkan garam, kacang, kemudian air rebusan, didihkan.",
+    "Susun mee hoon, sayur, udang, ayam dan telur dalam mangkuk, tuang kuah, hidang dengan sambal belacan dan limau kasturi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Kementerian Kesihatan Malaysia, Resipi Sihat Jilid 1/2011 (analisis nutrien UKM diet4)",
    "complete": true,
    "generic_placeholder": false,
-   "nutrition": null,
-   "drafted": true
+   "nutrition": {
+    "per_serving": {
+     "kcal": 187,
+     "carb_g": 14.7,
+     "fat_g": 9.3,
+     "protein_g": 11,
+     "cholesterol_mg": 165,
+     "calcium_mg": 63,
+     "iron_mg": 3.5
+    },
+    "servings": 10,
+    "basis": "per serving as published",
+    "note": "Analysed by UKM diet4 per MOH booklet; applies to the MOH version of this recipe"
+   },
+   "drafted": false,
+   "source_url": "https://www2.moh.gov.my/moh/resources/Penerbitan/Rujukan/NCD/Diabetes/02.Layout_Resepi_Sihat_.pdf",
+   "web_sourced": true
   },
   {
    "id": 166,
@@ -3806,7 +3891,7 @@
     "Tuang.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3828,7 +3913,7 @@
     "Gaul.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3851,7 +3936,7 @@
     "Rasa.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3874,7 +3959,7 @@
     "Rebus hingga timbul dan masak.",
     "Potong dan goreng sebelum hidang dengan cili."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3894,7 +3979,7 @@
     "Sejukkan.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3918,7 +4003,7 @@
     "Tumis bawang dan rempah, masukkan kuah.",
     "Gaul semua dan reneh 20 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3939,7 +4024,7 @@
     "Susun.",
     "Tuang kuah."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3964,7 +4049,7 @@
     "Masukkan udang dan santan.",
     "Reneh 8 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -3985,7 +4070,7 @@
     "Isi dan bungkus.",
     "Kukus 20 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4005,7 +4090,7 @@
     "Siram santan.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4027,7 +4112,7 @@
     "Tuang santan.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4050,7 +4135,7 @@
     "Tuang dalam acuan.",
     "Sejukkan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4074,7 +4159,7 @@
     "Masukkan kuey teow dan sos.",
     "Gaul api besar 2 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4096,7 +4181,7 @@
     "Tuang santan.",
     "Reneh hingga pekat."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4117,7 +4202,7 @@
     "Pecahkan tanah liat.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4142,7 +4227,7 @@
     "Masukkan ikan.",
     "Tuang santan, reneh 10 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4166,7 +4251,7 @@
     "Masukkan ikan.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4187,7 +4272,7 @@
     "Bakar.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4208,7 +4293,7 @@
     "Salut.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4232,7 +4317,7 @@
     "Sapu madu semasa bakar.",
     "Hidang panas."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4290,7 +4375,7 @@
     "Masukkan gula.",
     "Gaul dengan terung."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4372,7 +4457,7 @@
     "Rebus bersama asam.",
     "Masukkan keladi, reneh 15 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4393,7 +4478,7 @@
     "Gaul.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4415,7 +4500,7 @@
     "Tuang santan.",
     "Reneh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4439,7 +4524,7 @@
     "Masukkan rempah dan asam keping.",
     "Reneh 20 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4462,7 +4547,7 @@
     "Masukkan cili.",
     "Tuang atas ikan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4485,7 +4570,7 @@
     "Masukkan asam dan ikan.",
     "Reneh 10 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4506,7 +4591,7 @@
     "Tambah garam.",
     "Masak 2 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4528,7 +4613,7 @@
     "Tambah air.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4551,7 +4636,7 @@
     "Masukkan pucuk ubi.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4573,7 +4658,7 @@
     "Masukkan kailan.",
     "Gaul dan masak 3 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4596,7 +4681,7 @@
     "Masukkan peria dan udang.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4619,7 +4704,7 @@
     "Masukkan ikan.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4640,7 +4725,7 @@
     "Masak.",
     "Hidang dengan nasi."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4664,7 +4749,7 @@
     "Masukkan nangka.",
     "Masukkan kerisik dan santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4687,7 +4772,7 @@
     "Reneh 10 minit.",
     "Rasa garam."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4710,7 +4795,7 @@
     "Masukkan sotong.",
     "Masukkan santan dan pegaga."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4734,7 +4819,7 @@
     "Masukkan nanas.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4757,7 +4842,7 @@
     "Masukkan bendi.",
     "Reneh 10 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4778,7 +4863,7 @@
     "Masukkan ayam.",
     "Reneh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4800,7 +4885,7 @@
     "Masukkan ikan.",
     "Reneh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4821,7 +4906,7 @@
     "Gaul sambal.",
     "Hidang."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4843,7 +4928,7 @@
     "Masukkan kepala.",
     "Reneh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4865,7 +4950,7 @@
     "Masukkan santan.",
     "Masak."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4889,7 +4974,7 @@
     "Masukkan udang.",
     "Masukkan santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4910,7 +4995,7 @@
     "Tuang santan.",
     "Reneh."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4933,7 +5018,7 @@
     "Masukkan umbut.",
     "Tuang santan."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4956,7 +5041,7 @@
     "Masukkan telur.",
     "Reneh 10 minit."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -4979,7 +5064,7 @@
     "Masukkan santan.",
     "Masukkan maman dan kerisik."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -5002,7 +5087,7 @@
     "Masukkan ikan.",
     "Tambah timun."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
@@ -5024,7 +5109,7 @@
     "Goreng.",
     "Tos."
    ],
-   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "source": "Dilengkapkan daripada kaedah masakan standard (buku hanya beri senarai asas) - sila semak",
    "complete": true,
    "generic_placeholder": false,
    "nutrition": null,
