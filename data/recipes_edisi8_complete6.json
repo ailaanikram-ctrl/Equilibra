@@ -1,0 +1,1005 @@
+[
+ {
+  "title": "Rendang Daging Negeri Sembilan",
+  "serves": "8 hidangan",
+  "time": "30 min persediaan | 150 min masak",
+  "pdf_page": 7,
+  "components": [
+   {
+    "component": "Daging",
+    "ingredients": [
+     {
+      "raw": "1 kg daging lembu bahagian keting/atas paha, potong melawan urat",
+      "quantity_text": "1",
+      "unit": "kg",
+      "name": "daging lembu bahagian keting/atas paha, potong melawan urat",
+      "stated_grams": 1000.0
+     }
+    ]
+   },
+   {
+    "component": "Bahan Kisar",
+    "ingredients": [
+     {
+      "raw": "20 cili padi",
+      "quantity_text": "20",
+      "unit": null,
+      "name": "cili padi",
+      "stated_grams": null
+     },
+     {
+      "raw": "1-2 inci kunyit hidup",
+      "quantity_text": "1-2",
+      "unit": "inci",
+      "name": "kunyit hidup",
+      "stated_grams": null
+     },
+     {
+      "raw": "8 bawang merah",
+      "quantity_text": "8",
+      "unit": null,
+      "name": "bawang merah",
+      "stated_grams": null
+     },
+     {
+      "raw": "5 ulas bawang putih",
+      "quantity_text": "5",
+      "unit": "ulas",
+      "name": "bawang putih",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 inci halia",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "halia",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 inci lengkuas",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "lengkuas",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Bahan Lain",
+    "ingredients": [
+     {
+      "raw": "3 batang serai, ketuk",
+      "quantity_text": "3",
+      "unit": "batang",
+      "name": "serai, ketuk",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 liter santan pekat",
+      "quantity_text": "1",
+      "unit": "liter",
+      "name": "santan pekat",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 keping asam keping",
+      "quantity_text": "1",
+      "unit": "keping",
+      "name": "asam keping",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 sudu besar kerisik",
+      "quantity_text": "2",
+      "unit": "sudu besar",
+      "name": "kerisik",
+      "stated_grams": null
+     },
+     {
+      "raw": "1-3 helai daun kunyit, hiris",
+      "quantity_text": "1-3",
+      "unit": "helai",
+      "name": "daun kunyit, hiris",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu teh gula",
+      "quantity_text": "1",
+      "unit": "sudu teh",
+      "name": "gula",
+      "stated_grams": null
+     },
+     {
+      "raw": "garam, rujukan sumber hingga 3 sudu teh",
+      "quantity_text": null,
+      "unit": null,
+      "name": "garam, rujukan sumber hingga 3 sudu teh",
+      "stated_grams": null
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "Basuh daging dan toskan. Potong sebesar suapan melawan urat supaya lebih senang empuk bila dimasak lama.",
+   "Kisar cili padi, kunyit hidup, bawang merah, bawang putih, halia dan lengkuas sampai halus.",
+   "Masukkan daging dan bahan kisar ke dalam kuali. Gaul bagi kena rata pada daging.",
+   "Masukkan santan, serai dan asam keping. Masak atas api sederhana sampai mula mendidih, kemudian kecilkan api.",
+   "Reneh perlahan. Bila kuah makin pekat, kacau lebih kerap supaya bahagian bawah tak hangit.",
+   "Masukkan kerisik dan daun kunyit. Teruskan masak sampai rendang kering, minyak naik dan rempah melekat pada daging.",
+   "Rasa. Masukkan gula dan garam berdasarkan sukatan sumber, kemudian gaul sampai sebati."
+  ],
+  "source": "Sesudu - Resepi Rendang Daging Negeri Sembilan Cili Api & Kunyit Hidup, 19 November 2026"
+ },
+ {
+  "title": "Nasi Air Kelantan",
+  "serves": "4 hidangan",
+  "time": "20 min persediaan | 60 min masak",
+  "pdf_page": 8,
+  "components": [
+   {
+    "component": "Nasi Air",
+    "ingredients": [
+     {
+      "raw": "1 cawan beras, 180-200 g",
+      "quantity_text": "1",
+      "unit": "cawan",
+      "name": "beras, 180-200 g",
+      "stated_grams": 200.0
+     },
+     {
+      "raw": "7 cawan air",
+      "quantity_text": "7",
+      "unit": "cawan",
+      "name": "air",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 inci halia, ketuk",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "halia, ketuk",
+      "stated_grams": null
+     },
+     {
+      "raw": "1/2 sudu teh garam",
+      "quantity_text": "1/2",
+      "unit": "sudu teh",
+      "name": "garam",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Kuah Sup Ayam",
+    "ingredients": [
+     {
+      "raw": "1/2 ekor ayam, potong 4",
+      "quantity_text": "1/2",
+      "unit": "ekor",
+      "name": "ayam, potong 4",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu besar minyak",
+      "quantity_text": "1",
+      "unit": "sudu besar",
+      "name": "minyak",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 ulas bawang putih, hiris",
+      "quantity_text": "2",
+      "unit": "ulas",
+      "name": "bawang putih, hiris",
+      "stated_grams": null
+     },
+     {
+      "raw": "3 bawang merah, hiris",
+      "quantity_text": "3",
+      "unit": null,
+      "name": "bawang merah, hiris",
+      "stated_grams": null
+     },
+     {
+      "raw": "halia sebesar ibu jari kaki, hiris",
+      "quantity_text": null,
+      "unit": null,
+      "name": "halia sebesar ibu jari kaki, hiris",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 uncang sup bunjut",
+      "quantity_text": "1",
+      "unit": null,
+      "name": "uncang sup bunjut",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 kiub pati ayam",
+      "quantity_text": "1",
+      "unit": null,
+      "name": "kiub pati ayam",
+      "stated_grams": null
+     },
+     {
+      "raw": "air untuk menenggelamkan ayam",
+      "quantity_text": null,
+      "unit": null,
+      "name": "air untuk menenggelamkan ayam",
+      "stated_grams": null
+     },
+     {
+      "raw": "1/2 sudu teh garam",
+      "quantity_text": "1/2",
+      "unit": "sudu teh",
+      "name": "garam",
+      "stated_grams": null
+     },
+     {
+      "raw": "gula",
+      "quantity_text": null,
+      "unit": null,
+      "name": "gula",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Minyak Bawang Putih",
+    "ingredients": [
+     {
+      "raw": "1 labu bawang putih, cincang",
+      "quantity_text": "1",
+      "unit": "labu",
+      "name": "bawang putih, cincang",
+      "stated_grams": null
+     },
+     {
+      "raw": "minyak masak",
+      "quantity_text": null,
+      "unit": null,
+      "name": "minyak masak",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Air Lada",
+    "ingredients": [
+     {
+      "raw": "1 cili merah besar",
+      "quantity_text": "1",
+      "unit": null,
+      "name": "cili merah besar",
+      "stated_grams": null
+     },
+     {
+      "raw": "8 cili padi",
+      "quantity_text": "8",
+      "unit": null,
+      "name": "cili padi",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 inci gula Melaka",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "gula Melaka",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 sudu besar cuka",
+      "quantity_text": "2",
+      "unit": "sudu besar",
+      "name": "cuka",
+      "stated_grams": null
+     },
+     {
+      "raw": "gula pasir",
+      "quantity_text": null,
+      "unit": null,
+      "name": "gula pasir",
+      "stated_grams": null
+     },
+     {
+      "raw": "garam",
+      "quantity_text": null,
+      "unit": null,
+      "name": "garam",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Lauk Sampingan",
+    "ingredients": [
+     {
+      "raw": "ikan bilis goreng",
+      "quantity_text": null,
+      "unit": null,
+      "name": "ikan bilis goreng",
+      "stated_grams": null
+     },
+     {
+      "raw": "bawang goreng",
+      "quantity_text": null,
+      "unit": null,
+      "name": "bawang goreng",
+      "stated_grams": null
+     },
+     {
+      "raw": "tauge dan kangkung, celur",
+      "quantity_text": null,
+      "unit": null,
+      "name": "tauge dan kangkung, celur",
+      "stated_grams": null
+     },
+     {
+      "raw": "telur masin rebus",
+      "quantity_text": null,
+      "unit": null,
+      "name": "telur masin rebus",
+      "stated_grams": null
+     },
+     {
+      "raw": "daun sup, daun bawang dan daun ketumbar",
+      "quantity_text": null,
+      "unit": null,
+      "name": "daun sup, daun bawang dan daun ketumbar",
+      "stated_grams": null
+     },
+     {
+      "raw": "limau nipis",
+      "quantity_text": null,
+      "unit": null,
+      "name": "limau nipis",
+      "stated_grams": null
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "Basuh beras, toskan, kemudian sediakan nasi air ikut kaedah sumber dengan 7 cawan air, halia dan garam sampai beras jadi sangat lembut.",
+   "Untuk sup, panaskan minyak. Tumis bawang putih, bawang merah dan halia sampai wangi. Masukkan ayam, sup bunjut dan kiub pati ayam.",
+   "Tuang air sampai ayam tenggelam. Reneh sampai ayam masak dan kuah jadi sedap. Masukkan garam dan gula.",
+   "Angkat ayam bila masak, biarkan suam sedikit kemudian carik isi.",
+   "Goreng bawang putih cincang dalam minyak sampai keemasan untuk minyak bawang putih.",
+   "Kisar atau tumbuk bahan air lada, kemudian campur cuka, gula dan garam.",
+   "Masukkan nasi air dalam mangkuk. Tuang sup panas, letak ayam carik, ikan bilis, telur masin, sayur celur dan hiasan. Akhir sekali tambah minyak bawang putih dan air lada."
+  ],
+  "source": "Sesudu - Resepi Nasi Air Kelantan dengan Kuah Sup Ayam, 28 Oktober 2026"
+ },
+ {
+  "title": "Nasi Goreng Cili Kering",
+  "serves": "4 hidangan",
+  "time": "20 min persediaan | 20 min masak",
+  "pdf_page": 10,
+  "components": [
+   {
+    "component": "Bahan Tumbuk",
+    "ingredients": [
+     {
+      "raw": "10 cili kering, lebih kurang 11 g",
+      "quantity_text": "10",
+      "unit": null,
+      "name": "cili kering",
+      "stated_grams": 11.0
+     },
+     {
+      "raw": "3 bawang merah kecil",
+      "quantity_text": "3",
+      "unit": null,
+      "name": "bawang merah kecil",
+      "stated_grams": null
+     },
+     {
+      "raw": "3 ulas bawang putih",
+      "quantity_text": "3",
+      "unit": "ulas",
+      "name": "bawang putih",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 sudu besar ikan bilis, lebih kurang 5 g",
+      "quantity_text": "2",
+      "unit": "sudu besar",
+      "name": "ikan bilis",
+      "stated_grams": 5.0
+     },
+     {
+      "raw": "1 inci belacan",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "belacan",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu teh garam",
+      "quantity_text": "1",
+      "unit": "sudu teh",
+      "name": "garam",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Nasi Goreng",
+    "ingredients": [
+     {
+      "raw": "3-4 cawan nasi putih sejuk, lebih kurang 450 g",
+      "quantity_text": "3-4",
+      "unit": "cawan",
+      "name": "nasi putih sejuk",
+      "stated_grams": 450.0
+     },
+     {
+      "raw": "2 telur",
+      "quantity_text": "2",
+      "unit": null,
+      "name": "telur",
+      "stated_grams": null
+     },
+     {
+      "raw": "4 sudu besar minyak",
+      "quantity_text": "4",
+      "unit": "sudu besar",
+      "name": "minyak",
+      "stated_grams": null
+     },
+     {
+      "raw": "segenggam kacang panjang, lebih kurang 50 g",
+      "quantity_text": "segenggam",
+      "unit": null,
+      "name": "kacang panjang",
+      "stated_grams": 50.0
+     },
+     {
+      "raw": "2 sudu teh serbuk perasa",
+      "quantity_text": "2",
+      "unit": "sudu teh",
+      "name": "serbuk perasa",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Hidangan",
+    "ingredients": [
+     {
+      "raw": "ikan bilis goreng",
+      "quantity_text": null,
+      "unit": null,
+      "name": "ikan bilis goreng",
+      "stated_grams": null
+     },
+     {
+      "raw": "telur mata",
+      "quantity_text": null,
+      "unit": null,
+      "name": "telur mata",
+      "stated_grams": null
+     },
+     {
+      "raw": "timun",
+      "quantity_text": null,
+      "unit": null,
+      "name": "timun",
+      "stated_grams": null
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "Gunting cili kering dan rendam air panas sampai lembut. Bilas dan toskan.",
+   "Tumbuk cili kering bersama bawang merah, bawang putih, ikan bilis, belacan dan garam. Tak perlu terlalu licin; tekstur tumbuk kasar lebih sesuai untuk gaya kampung.",
+   "Panaskan minyak dalam kuali. Tumis bahan tumbuk sampai warna jadi lebih merah dan tumisan nampak garing.",
+   "Tolak tumisan ke tepi, pecahkan telur dan kacau sampai telur hampir masak.",
+   "Masukkan nasi sejuk yang sudah dileraikan. Gaul laju supaya sambal bersalut pada nasi.",
+   "Masukkan kacang panjang dan serbuk perasa. Goreng sampai nasi panas sekata dan berderai.",
+   "Hidang dengan ikan bilis goreng, telur mata dan timun."
+  ],
+  "source": "Sesudu - Resepi Nasi Goreng Cili Kering Tumbuk Gaya Kampung, 17 November 2026"
+ },
+ {
+  "title": "Lontong Kuah Lodeh",
+  "serves": "5 hidangan",
+  "time": "30 min persediaan | 40 min masak",
+  "pdf_page": 11,
+  "components": [
+   {
+    "component": "Nasi Impit",
+    "ingredients": [
+     {
+      "raw": "3 cawan beras",
+      "quantity_text": "3",
+      "unit": "cawan",
+      "name": "beras",
+      "stated_grams": null
+     },
+     {
+      "raw": "9 cawan air",
+      "quantity_text": "9",
+      "unit": "cawan",
+      "name": "air",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu teh garam",
+      "quantity_text": "1",
+      "unit": "sudu teh",
+      "name": "garam",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Bahan Kisar Halus",
+    "ingredients": [
+     {
+      "raw": "8 bawang merah",
+      "quantity_text": "8",
+      "unit": null,
+      "name": "bawang merah",
+      "stated_grams": null
+     },
+     {
+      "raw": "4 ulas bawang putih",
+      "quantity_text": "4",
+      "unit": "ulas",
+      "name": "bawang putih",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 inci kunyit hidup",
+      "quantity_text": "2",
+      "unit": "inci",
+      "name": "kunyit hidup",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 inci lengkuas",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "lengkuas",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 inci halia",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "halia",
+      "stated_grams": null
+     },
+     {
+      "raw": "3 sudu besar udang kering, rendam 10 min",
+      "quantity_text": "3",
+      "unit": "sudu besar",
+      "name": "udang kering, rendam 10 min",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Bahan Aromatik",
+    "ingredients": [
+     {
+      "raw": "2 batang serai, titik",
+      "quantity_text": "2",
+      "unit": "batang",
+      "name": "serai, titik",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 inci lengkuas, titik",
+      "quantity_text": "1",
+      "unit": "inci",
+      "name": "lengkuas, titik",
+      "stated_grams": null
+     },
+     {
+      "raw": "3 helai daun limau purut",
+      "quantity_text": "3",
+      "unit": "helai",
+      "name": "daun limau purut",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 keping asam keping",
+      "quantity_text": "2",
+      "unit": "keping",
+      "name": "asam keping",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Sayur",
+    "ingredients": [
+     {
+      "raw": "1 karot / 150 g",
+      "quantity_text": "1",
+      "unit": null,
+      "name": "karot / 150 g",
+      "stated_grams": 150.0
+     },
+     {
+      "raw": "150 g kacang panjang",
+      "quantity_text": "150",
+      "unit": "g",
+      "name": "kacang panjang",
+      "stated_grams": 150.0
+     },
+     {
+      "raw": "1/2 sengkuang / 150 g",
+      "quantity_text": "1/2",
+      "unit": null,
+      "name": "sengkuang / 150 g",
+      "stated_grams": 150.0
+     },
+     {
+      "raw": "1/4 kubis",
+      "quantity_text": "1/4",
+      "unit": null,
+      "name": "kubis",
+      "stated_grams": null
+     },
+     {
+      "raw": "3-4 keping fucuk",
+      "quantity_text": "3-4",
+      "unit": "keping",
+      "name": "fucuk",
+      "stated_grams": null
+     },
+     {
+      "raw": "30 g suun",
+      "quantity_text": "30",
+      "unit": "g",
+      "name": "suun",
+      "stated_grams": 30.0
+     }
+    ]
+   },
+   {
+    "component": "Protein",
+    "ingredients": [
+     {
+      "raw": "200 g udang",
+      "quantity_text": "200",
+      "unit": "g",
+      "name": "udang",
+      "stated_grams": 200.0
+     },
+     {
+      "raw": "2 keping tauhu putih, goreng",
+      "quantity_text": "2",
+      "unit": "keping",
+      "name": "tauhu putih, goreng",
+      "stated_grams": null
+     },
+     {
+      "raw": "200 g tempe, goreng",
+      "quantity_text": "200",
+      "unit": "g",
+      "name": "tempe, goreng",
+      "stated_grams": 200.0
+     }
+    ]
+   },
+   {
+    "component": "Kuah",
+    "ingredients": [
+     {
+      "raw": "400 ml santan pekat",
+      "quantity_text": "400",
+      "unit": "ml",
+      "name": "santan pekat",
+      "stated_grams": null
+     },
+     {
+      "raw": "700 ml air",
+      "quantity_text": "700",
+      "unit": "ml",
+      "name": "air",
+      "stated_grams": null
+     },
+     {
+      "raw": "3 sudu besar minyak",
+      "quantity_text": "3",
+      "unit": "sudu besar",
+      "name": "minyak",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 1/2 sudu teh garam",
+      "quantity_text": "1 1/2",
+      "unit": "sudu teh",
+      "name": "garam",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu teh gula",
+      "quantity_text": "1",
+      "unit": "sudu teh",
+      "name": "gula",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Pelengkap",
+    "ingredients": [
+     {
+      "raw": "5 telur rebus",
+      "quantity_text": "5",
+      "unit": null,
+      "name": "telur rebus",
+      "stated_grams": null
+     },
+     {
+      "raw": "sambal belacan atau sambal tumis",
+      "quantity_text": null,
+      "unit": null,
+      "name": "sambal belacan atau sambal tumis",
+      "stated_grams": null
+     },
+     {
+      "raw": "serunding",
+      "quantity_text": null,
+      "unit": null,
+      "name": "serunding",
+      "stated_grams": null
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "Masak nasi impit daripada beras, air dan garam sampai lembut dan padat. Sejukkan betul-betul sebelum dipotong.",
+   "Kisar semua bahan kisar sampai halus. Potong sayur, rendam fucuk dan suun, kemudian goreng tauhu serta tempe.",
+   "Panaskan minyak. Tumis bahan kisar bersama serai, lengkuas dan daun limau sampai wangi.",
+   "Masukkan 700 ml air dan asam keping. Masukkan sayur yang keras dulu seperti karot dan sengkuang. Masak sampai mula empuk.",
+   "Masukkan kacang panjang, kubis, fucuk, suun, udang, tauhu dan tempe.",
+   "Tuang santan. Kecilkan api dan kacau perlahan supaya kuah tak pecah. Masukkan garam dan gula.",
+   "Potong nasi impit, letak dalam mangkuk dan curah kuah lodeh. Hidang bersama telur dan sambal."
+  ],
+  "source": "Sesudu - Resepi Lontong Kuah Lodeh Tradisional, 24 Februari 2026"
+ },
+ {
+  "title": "Ayam Goreng Kunyit",
+  "serves": "4 hidangan",
+  "time": "30 min persediaan | 20 min masak",
+  "pdf_page": 13,
+  "components": [
+   {
+    "component": "Ayam",
+    "ingredients": [
+     {
+      "raw": "1 ekor ayam, lebih kurang 1.2 kg, potong 12",
+      "quantity_text": "1",
+      "unit": "ekor",
+      "name": "ayam",
+      "stated_grams": 1200.0
+     },
+     {
+      "raw": "1 sudu besar serbuk kunyit",
+      "quantity_text": "1",
+      "unit": "sudu besar",
+      "name": "serbuk kunyit",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu teh lada putih",
+      "quantity_text": "1",
+      "unit": "sudu teh",
+      "name": "lada putih",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu teh garam",
+      "quantity_text": "1",
+      "unit": "sudu teh",
+      "name": "garam",
+      "stated_grams": null
+     },
+     {
+      "raw": "minyak menggoreng",
+      "quantity_text": null,
+      "unit": null,
+      "name": "minyak menggoreng",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Bahan Kisar",
+    "ingredients": [
+     {
+      "raw": "5 ulas bawang putih",
+      "quantity_text": "5",
+      "unit": "ulas",
+      "name": "bawang putih",
+      "stated_grams": null
+     },
+     {
+      "raw": "3 cm halia",
+      "quantity_text": "3",
+      "unit": null,
+      "name": "cm halia",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 batang serai, bahagian putih",
+      "quantity_text": "2",
+      "unit": "batang",
+      "name": "serai, bahagian putih",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 bawang merah besar",
+      "quantity_text": "1",
+      "unit": null,
+      "name": "bawang merah besar",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Salutan",
+    "ingredients": [
+     {
+      "raw": "4 sudu besar tepung gandum",
+      "quantity_text": "4",
+      "unit": "sudu besar",
+      "name": "tepung gandum",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 sudu besar tepung beras",
+      "quantity_text": "2",
+      "unit": "sudu besar",
+      "name": "tepung beras",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu teh serbuk kunyit",
+      "quantity_text": "1",
+      "unit": "sudu teh",
+      "name": "serbuk kunyit",
+      "stated_grams": null
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "Kisar bawang putih, halia, serai dan bawang merah sampai halus.",
+   "Gaul ayam dengan bahan kisar, serbuk kunyit, lada putih dan garam. Perap sekurang-kurangnya 30 minit.",
+   "Dalam mangkuk lain, campur tepung gandum, tepung beras dan serbuk kunyit.",
+   "Ambil ayam yang diperap dan salut dengan campuran tepung. Tekan-tekan ringan supaya tepung melekat.",
+   "Panaskan minyak. Goreng ayam secara berperingkat supaya suhu minyak tak jatuh terlalu banyak.",
+   "Bila ayam dah keemasan dan masak sampai ke tulang, angkat dan toskan."
+  ],
+  "source": "Sesudu - Resepi Ayam Goreng Kunyit, 13 Julai 2026"
+ },
+ {
+  "title": "Kerabu Kacang Botol",
+  "serves": "5 hidangan",
+  "time": "30 minit",
+  "pdf_page": 14,
+  "components": [
+   {
+    "component": "Bahan A",
+    "ingredients": [
+     {
+      "raw": "400 g kacang botol, potong serong",
+      "quantity_text": "400",
+      "unit": "g",
+      "name": "kacang botol, potong serong",
+      "stated_grams": 400.0
+     },
+     {
+      "raw": "50 g taugeh",
+      "quantity_text": "50",
+      "unit": "g",
+      "name": "taugeh",
+      "stated_grams": 50.0
+     },
+     {
+      "raw": "1/2 bunga kantan, hiris",
+      "quantity_text": "1/2",
+      "unit": null,
+      "name": "bunga kantan, hiris",
+      "stated_grams": null
+     },
+     {
+      "raw": "150 g isi kerang, celur",
+      "quantity_text": "150",
+      "unit": "g",
+      "name": "isi kerang, celur",
+      "stated_grams": 150.0
+     },
+     {
+      "raw": "100 g kelapa parut, sangai perang",
+      "quantity_text": "100",
+      "unit": "g",
+      "name": "kelapa parut, sangai perang",
+      "stated_grams": 100.0
+     },
+     {
+      "raw": "3 bawang merah, hiris",
+      "quantity_text": "3",
+      "unit": null,
+      "name": "bawang merah, hiris",
+      "stated_grams": null
+     },
+     {
+      "raw": "1/3 sudu besar AJI-NO-MOTO",
+      "quantity_text": "1/3",
+      "unit": "sudu besar",
+      "name": "AJI-NO-MOTO",
+      "stated_grams": null
+     },
+     {
+      "raw": "1/2 sudu kecil garam",
+      "quantity_text": "1/2",
+      "unit": null,
+      "name": "sudu kecil garam",
+      "stated_grams": null
+     }
+    ]
+   },
+   {
+    "component": "Sambal B",
+    "ingredients": [
+     {
+      "raw": "4 ulas bawang putih",
+      "quantity_text": "4",
+      "unit": "ulas",
+      "name": "bawang putih",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 bawang besar",
+      "quantity_text": "1",
+      "unit": null,
+      "name": "bawang besar",
+      "stated_grams": null
+     },
+     {
+      "raw": "4 cili merah / 70 g",
+      "quantity_text": "4",
+      "unit": null,
+      "name": "cili merah / 70 g",
+      "stated_grams": 70.0
+     },
+     {
+      "raw": "2 cili api",
+      "quantity_text": "2",
+      "unit": null,
+      "name": "cili api",
+      "stated_grams": null
+     },
+     {
+      "raw": "1 sudu besar pes asam jawa + 2 sudu besar air",
+      "quantity_text": "1",
+      "unit": "sudu besar",
+      "name": "pes asam jawa + 2 sudu besar air",
+      "stated_grams": null
+     },
+     {
+      "raw": "2 sudu besar jus limau nipis",
+      "quantity_text": "2",
+      "unit": "sudu besar",
+      "name": "jus limau nipis",
+      "stated_grams": null
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "Kisar kasar bawang putih, bawang besar, cili merah dan cili api. Campur dengan pes asam jawa yang sudah dibancuh serta jus limau nipis.",
+   "Masukkan kacang botol, taugeh, bunga kantan, kerang, kelapa sangai dan bawang merah hiris dalam mangkuk besar.",
+   "Tuang sambal yang dikisar kasar. Gaul sampai semua bahan kena sambal.",
+   "Masukkan AJI-NO-MOTO dan garam. Gaul sekali lagi dan terus hidang supaya sayur masih segar."
+  ],
+  "source": "Ajinomoto Malaysia - Kerabu Kacang Botol, 24 September 2024"
+ }
+]

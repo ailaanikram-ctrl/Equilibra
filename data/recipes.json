@@ -1,0 +1,5034 @@
+{
+ "book": "Ensiklopedia Masakan Malaysia - Gigantic Edisi 7 (Bahan Lengkap)",
+ "note": "Nutrition is null: the book contains no nutrient values. Import sourced values (e.g. MyFCD) separately. Entries with drafted=true were completed by Claude from standard methods (book had base lists only) and need verification. draft_level=outline marks very short drafts (vague quantities) that need real recipe sources.",
+ "recipes": [
+  {
+   "id": 1,
+   "title": "Nasi lemak",
+   "ingredients": [
+    "2 cawan beras jasmine",
+    "200 ml santan",
+    "3 helai daun pandan",
+    "garam",
+    "3 cili merah panjang",
+    "8 cili kering, rendam 15 minit",
+    "1/4 cawan ikan bilis untuk sambal",
+    "1 bawang besar",
+    "1 batang serai",
+    "2 cm halia",
+    "4 ulas bawang putih",
+    "2 biji buah keras",
+    "belacan bakar",
+    "1/2 cawan minyak",
+    "air asam jawa",
+    "gula Melaka",
+    "gula",
+    "ikan bilis, kacang, timun dan telur untuk hidang"
+   ],
+   "steps": [
+    "Basuh beras sampai air kurang keruh. Masukkan beras, santan dan sedikit garam. Tambah air sejuk hingga lebih kurang 2 cm melepasi paras beras, kemudian masukkan pandan yang disimpul.",
+    "Masak atas api sederhana besar sampai air mendidih dan paras air turun ke permukaan nasi. Lepas itu kecilkan api betul-betul, tutup periuk dan masak 12 minit. Tutup api dan jangan buka penutup selama 5 minit lagi.",
+    "Untuk sambal, kisar cili, ikan bilis, bawang, serai, halia, bawang putih, buah keras dan belacan sampai jadi pes.",
+    "Panaskan minyak atas api kecil-sederhana. Tumis pes lebih kurang 10 minit atau sampai betul-betul wangi dan minyak mula keluar di tepi sambal.",
+    "Masukkan air asam jawa, gula Melaka, gula dan garam. Reneh lagi lebih kurang 5 minit sampai sambal pekat. Rasa dulu sebelum tambah garam atau gula.",
+    "Goreng ikan bilis dan kacang secara berasingan sampai rangup. Hidang nasi dengan sambal, timun dan telur."
+   ],
+   "source": "SBS Food - Nasi lemak, Adam Liaw, 28 November 2023",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null
+  },
+  {
+   "id": 2,
+   "title": "Nasi ayam",
+   "ingredients": [
+    "1 ekor ayam (1.2 kg)",
+    "2 cawan beras basmati",
+    "1 biji bawang besar",
+    "4 ulas bawang putih",
+    "3 cm halia",
+    "3 helai daun pandan",
+    "2 sudu besar minyak",
+    "garam",
+    "timun dan sambal cili untuk hidang"
+   ],
+   "steps": [
+    "Rebus ayam dengan halia dan garam 30 minit, angkat dan simpan air rebusan.",
+    "Tumis bawang, bawang putih, halia dan pandan hingga wangi, masukkan beras.",
+    "Tuang 3½ cawan air rebusan dan garam, masak hingga nasi kering dan masak.",
+    "Hidang nasi dengan ayam dihiris, timun dan sambal."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 3,
+   "title": "Nasi kunyit/pulut kuning",
+   "ingredients": [
+    "2 cawan beras pulut",
+    "1 cawan santan pekat",
+    "1 sudu teh kunyit serbuk",
+    "1 helai daun pandan",
+    "½ sudu teh garam"
+   ],
+   "steps": [
+    "Basuh dan rendam pulut 2 jam, toskan.",
+    "Campur santan, kunyit, garam, gaul bersama pulut.",
+    "Kukus bersama pandan 30 minit hingga masak.",
+    "Kuis dan hidang bersama rendang atau kari."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 4,
+   "title": "Nasi tumpang",
+   "ingredients": [
+    "2 cawan nasi putih",
+    "1 cawan kelapa parut sangrai",
+    "4 ulas bawang putih",
+    "5 cili kering",
+    "1 cawan ikan kembung rebus",
+    "garam"
+   ],
+   "steps": [
+    "Kisar cili dan bawang putih, tumis hingga wangi.",
+    "Masukkan ikan suiran dan garam.",
+    "Gaul bersama kelapa sangrai.",
+    "Hidang bersama nasi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 5,
+   "title": "Nasi kerabu",
+   "ingredients": [
+    "2 cawan beras",
+    "1 sudu besar bunga telang",
+    "1 cawan kelapa parut sangrai",
+    "4 helai daun kesum",
+    "1 biji timun",
+    "100 g tauge",
+    "1 batang serai",
+    "ikan goreng dan solok lada untuk hidang"
+   ],
+   "steps": [
+    "Rendam bunga telang dalam air panas, guna airnya untuk menanak beras.",
+    "Tanak beras dengan serai hingga masak.",
+    "Susun nasi dengan tauge, timun, daun kesum dan kelapa sangrai.",
+    "Hidang dengan ikan goreng, solok lada dan budu."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 6,
+   "title": "Nasi dagang",
+   "ingredients": [
+    "2 cawan beras",
+    "1 cawan santan",
+    "1 sudu teh halba",
+    "1 biji bawang merah",
+    "2 ulas bawang putih",
+    "1 cm halia",
+    "garam"
+   ],
+   "steps": [
+    "Rendam beras 1 jam, toskan.",
+    "Tumis bawang, bawang putih, halia dan halba, masukkan beras.",
+    "Tuang santan dan air secukupnya, masak hingga kering.",
+    "Hidang dengan gulai ikan tongkol."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 7,
+   "title": "Nasi himpit",
+   "ingredients": [
+    "2 cawan beras",
+    "4 cawan air",
+    "1 sudu teh garam"
+   ],
+   "steps": [
+    "Masak beras dan air hingga jadi bubur pekat.",
+    "Tuang dalam loyang, ratakan.",
+    "Sejukkan hingga keras, potong empat segi.",
+    "Hidang dengan kuah kacang atau lauk."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 8,
+   "title": "Nasi goreng",
+   "ingredients": [
+    "3 cawan nasi sejuk",
+    "2 biji telur",
+    "3 ulas bawang putih",
+    "1 sudu besar sos cili",
+    "1 sudu besar kicap manis",
+    "100 g udang atau ayam",
+    "2 sudu besar minyak",
+    "garam"
+   ],
+   "steps": [
+    "Panaskan minyak, tumis bawang putih hingga wangi.",
+    "Masukkan udang atau ayam, masak hingga berubah warna.",
+    "Pecahkan telur, kacau, masukkan nasi, sos cili dan kicap.",
+    "Gaul rata api besar 3 minit, rasa garam dan hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 9,
+   "title": "Nasi ulam",
+   "ingredients": [
+    "3 cawan nasi",
+    "1 cawan herba ulam dihiris",
+    "½ cawan kelapa sangrai",
+    "1 sudu besar ikan bilis goreng",
+    "garam",
+    "sambal belacan"
+   ],
+   "steps": [
+    "Hiris halus daun ulam.",
+    "Gaul nasi dengan herba.",
+    "Masukkan kelapa sangrai, ikan bilis dan garam.",
+    "Hidang dengan sambal belacan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 10,
+   "title": "Ketupat",
+   "ingredients": [
+    "2 cawan beras",
+    "4 cawan air",
+    "1 sudu teh garam",
+    "daun kelapa muda untuk anyaman"
+   ],
+   "steps": [
+    "Anyam daun kelapa menjadi sarung ketupat.",
+    "Isi beras separuh penuh.",
+    "Rebus 3 jam hingga padat.",
+    "Toskan, sejukkan dan potong.",
+    "Hidang dengan kuah kacang atau rendang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 11,
+   "title": "Lemang",
+   "ingredients": [
+    "3 cawan beras pulut",
+    "2 cawan santan",
+    "1 sudu teh garam",
+    "daun pisang",
+    "buluh lemang"
+   ],
+   "steps": [
+    "Rendam pulut 3 jam, toskan.",
+    "Alas buluh dengan daun pisang.",
+    "Isi pulut, tuang santan bergaram.",
+    "Bakar atas bara 4 jam sambil diputar."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 12,
+   "title": "Pulut kukus dalam periuk kera",
+   "ingredients": [
+    "2 cawan pulut",
+    "1 cawan santan",
+    "½ sudu teh garam",
+    "daun pisang"
+   ],
+   "steps": [
+    "Rendam pulut 2 jam.",
+    "Gaul dengan santan dan garam.",
+    "Kukus dalam periuk kera 30 minit.",
+    "Hidang dengan serunding."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 13,
+   "title": "Pulut panggang",
+   "ingredients": [
+    "2 cawan pulut",
+    "1 cawan santan",
+    "100 g udang kisar",
+    "1 sudu besar sambal tumis",
+    "daun pisang"
+   ],
+   "steps": [
+    "Kukus pulut dengan santan.",
+    "Gaul udang dengan sambal.",
+    "Isi dalam pulut, bungkus daun pisang.",
+    "Panggang hingga wangi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 14,
+   "title": "Mi Mamak",
+   "ingredients": [
+    "300 g mi kuning",
+    "2 biji telur",
+    "100 g udang",
+    "2 ketul tauhu goreng",
+    "1 biji kentang rebus",
+    "2 ulas bawang putih",
+    "2 sudu besar sos cili",
+    "2 sudu besar kicap manis",
+    "taugeh dan sawi",
+    "minyak"
+   ],
+   "steps": [
+    "Tumis bawang putih, masukkan udang dan sos cili.",
+    "Masukkan mi, kicap manis dan sedikit air.",
+    "Tambah sawi, taugeh, tauhu dan kentang.",
+    "Tolak ke tepi, goreng telur, gaul rata dan hidang dengan limau."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 15,
+   "title": "Laksa asam",
+   "ingredients": [
+    "500 g ikan kembung",
+    "4 keping asam keping",
+    "10 cili kering",
+    "1 biji bawang besar",
+    "3 batang serai",
+    "2 cm lengkuas",
+    "daun kesum",
+    "1 sudu besar belacan",
+    "400 g laksa putih",
+    "timun, nanas, bunga kantan"
+   ],
+   "steps": [
+    "Rebus ikan, suir isinya dan asingkan.",
+    "Kisar cili, bawang, serai, lengkuas dan belacan, tumis.",
+    "Masukkan air rebusan ikan, asam keping dan daun kesum, reneh 30 minit.",
+    "Masukkan isi ikan, hidang atas laksa dengan sayuran."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 16,
+   "title": "Char kway teow Pulau Pinang",
+   "ingredients": [
+    "300 g kuey teow",
+    "100 g udang",
+    "2 biji telur",
+    "100 g taugeh",
+    "3 ulas bawang putih",
+    "2 sudu besar kicap manis",
+    "1 sudu besar sos cili",
+    "daun kucai",
+    "2 sudu besar minyak"
+   ],
+   "steps": [
+    "Panaskan wok sangat panas dengan minyak, tumis bawang putih dan udang.",
+    "Masukkan kuey teow, kicap dan sos cili.",
+    "Tolak ke tepi, pecahkan telur dan kacau.",
+    "Masukkan taugeh dan kucai, gaul 1 minit dan hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 17,
+   "title": "Laksa Johor",
+   "ingredients": [
+    "400 g spageti",
+    "500 g ikan tenggiri",
+    "1 cawan kelapa parut sangrai",
+    "5 cili kering",
+    "3 batang serai",
+    "2 cm kunyit",
+    "2 cawan santan",
+    "taugeh dan daun kesum"
+   ],
+   "steps": [
+    "Rebus ikan, suir isinya.",
+    "Kisar kelapa, cili, serai dan kunyit.",
+    "Tumis, masukkan stok ikan dan santan, reneh 20 minit.",
+    "Hidang atas spageti dengan sayuran."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 18,
+   "title": "Rendang",
+   "ingredients": [
+    "1 kg daging batang pinang",
+    "2 biji kelapa (santan pekat)",
+    "4 batang serai",
+    "5 helai daun limau purut",
+    "2 keping asam gelugor",
+    "1 cawan kerisik",
+    "20 cili kering",
+    "5 biji bawang merah",
+    "4 ulas bawang putih",
+    "3 cm halia",
+    "3 cm lengkuas",
+    "garam dan gula"
+   ],
+   "steps": [
+    "Kisar cili, bawang, bawang putih, halia dan lengkuas.",
+    "Rebus daging dengan santan, rempah, serai, limau purut dan asam gelugor.",
+    "Kacau perlahan 2 jam hingga santan menyusut.",
+    "Masukkan kerisik, garam dan gula, masak hingga kering dan gelap."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 19,
+   "title": "Serunding",
+   "ingredients": [
+    "500 g daging",
+    "2 cawan kelapa parut",
+    "3 batang serai",
+    "8 cili kering",
+    "5 biji bawang merah",
+    "1 sudu besar gula",
+    "garam"
+   ],
+   "steps": [
+    "Rebus daging, suir halus.",
+    "Kisar rempah dan tumis.",
+    "Masukkan daging dan kelapa, kacau api kecil 1 jam.",
+    "Masak hingga kering dan rangup."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 20,
+   "title": "Ayam percik",
+   "ingredients": [
+    "1.5 kg kepak ayam",
+    "1-2 sudu teh serbuk cili",
+    "2 sudu teh serbuk kunyit",
+    "1 sudu teh gula",
+    "garam",
+    "60 ml minyak",
+    "8-10 cili kering, direndam",
+    "4 buah keras",
+    "3 ulas bawang putih",
+    "5 bawang merah",
+    "1 serai untuk pes",
+    "halia",
+    "lengkuas",
+    "2 serai tambahan",
+    "2 keping asam gelugor",
+    "2 daun limau purut",
+    "2 bunga cengkih",
+    "3 buah pelaga",
+    "1 sudu besar gula",
+    "400 ml santan",
+    "250 ml air"
+   ],
+   "steps": [
+    "Gaul bahan perapan dengan ayam sampai semua bahagian kena. Simpan dalam peti sejuk sekurang-kurangnya 2 jam; sumber mencadangkan semalaman untuk rasa lebih meresap.",
+    "Kisar bahan pes. Guna sedikit air rendaman cili kalau pengisar susah bergerak.",
+    "Panaskan minyak. Masukkan pes, serai, asam gelugor, daun limau, bunga cengkih dan buah pelaga. Tumis 5-6 minit sampai naik bau.",
+    "Masukkan gula, santan dan air. Reneh sambil kacau sekali-sekala 5-7 minit sampai kuah mula pekat. Perasakan kemudian biarkan kuah sejuk.",
+    "Panaskan pemanggang. Letak ayam bahagian kulit dahulu. Bakar sambil sapu kuah percik dan balikkan ayam sekali-sekala.",
+    "Masak kira-kira 20 minit atau sampai ayam masak dan permukaan ada kesan bakar yang cantik. Sumber menyebut jus pada bahagian tebal perlu keluar jernih apabila dicucuk."
+   ],
+   "source": "SBS Food - Ayam percik, Tony Tan, 20 November 2023",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null
+  },
+  {
+   "id": 21,
+   "title": "Manok pansoh",
+   "ingredients": [
+    "1 ekor ayam kampung dipotong",
+    "10 biji bawang kecil",
+    "4 batang serai",
+    "3 cm halia",
+    "daun pansoh atau daun pisang",
+    "2 sudu teh garam",
+    "1 batang buluh"
+   ],
+   "steps": [
+    "Gaul ayam dengan serai ketuk, halia, bawang dan garam.",
+    "Masukkan dalam buluh berlapik daun, tambah ½ cawan air.",
+    "Bakar atas bara 1 jam sambil diputar.",
+    "Hidang bersama nasi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 22,
+   "title": "Masak asam pedas",
+   "ingredients": [
+    "600 g ikan tenggiri",
+    "8 cili kering",
+    "1 biji bawang besar",
+    "3 cm halia",
+    "2 batang serai",
+    "2 keping asam keping",
+    "5 biji bendi",
+    "2 biji tomato",
+    "daun kesum",
+    "garam"
+   ],
+   "steps": [
+    "Kisar cili, bawang, halia dan serai.",
+    "Tumis hingga pecah minyak, tuang 3 cawan air.",
+    "Masukkan asam keping dan daun kesum, reneh 5 minit.",
+    "Masukkan ikan, bendi dan tomato, masak 10 minit, rasa garam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 23,
+   "title": "Gulai tempoyak ikan patin",
+   "ingredients": [
+    "500 g ikan patin",
+    "4 sudu besar tempoyak",
+    "8 cili padi",
+    "3 biji bawang merah",
+    "2 batang serai",
+    "1 sudu teh kunyit",
+    "daun kesum"
+   ],
+   "steps": [
+    "Kisar cili, bawang dan kunyit.",
+    "Rebus bersama serai dan tempoyak 5 minit.",
+    "Masukkan ikan dan daun kesum.",
+    "Reneh 10 minit, rasa garam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 24,
+   "title": "Ikan bakar",
+   "ingredients": [
+    "2 ekor ikan pari atau kembung",
+    "5 cili merah",
+    "3 biji bawang merah",
+    "3 ulas bawang putih",
+    "2 cm kunyit",
+    "1 sudu besar air asam jawa",
+    "garam",
+    "daun pisang"
+   ],
+   "steps": [
+    "Kisar cili, bawang, bawang putih dan kunyit, campur asam jawa dan garam.",
+    "Sapu pada ikan, balut dengan daun pisang.",
+    "Bakar atas bara 8 minit setiap sisi.",
+    "Hidang dengan limau dan nasi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 25,
+   "title": "Gulai lemak umbut",
+   "ingredients": [
+    "300 g umbut kelapa",
+    "1 cawan santan",
+    "5 cili api",
+    "3 biji bawang merah",
+    "2 cm kunyit",
+    "1 batang serai",
+    "garam"
+   ],
+   "steps": [
+    "Hiris umbut, rendam sebentar.",
+    "Kisar cili, bawang dan kunyit, rebus bersama serai.",
+    "Masukkan umbut hingga lembut.",
+    "Tuang santan, reneh 5 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 26,
+   "title": "Kari kepala ikan",
+   "ingredients": [
+    "1 kepala ikan merah",
+    "2 sudu besar serbuk kari ikan",
+    "1 biji bawang",
+    "3 ulas bawang putih",
+    "3 biji bendi",
+    "2 biji tomato",
+    "1 sudu besar asam jawa",
+    "1 cawan santan"
+   ],
+   "steps": [
+    "Tumis bawang dan bawang putih, masukkan serbuk kari.",
+    "Tuang air dan asam jawa, didihkan.",
+    "Masukkan kepala ikan, bendi dan tomato.",
+    "Masukkan santan, reneh 10 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 27,
+   "title": "Kurma daging",
+   "ingredients": [
+    "500 g daging",
+    "1 cawan yogurt",
+    "4 sudu besar serbuk kurma",
+    "2 biji bawang",
+    "1 cawan santan",
+    "kayu manis, bunga lawang",
+    "garam"
+   ],
+   "steps": [
+    "Perap daging dengan yogurt.",
+    "Tumis rempah, serbuk kurma dan bawang.",
+    "Masukkan daging dan air, reneh 1 jam.",
+    "Masukkan santan, masak hingga pekat."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 28,
+   "title": "Pajeri",
+   "ingredients": [
+    "2 biji nanas",
+    "1 cawan gula",
+    "2 batang kayu manis",
+    "1 sudu besar serbuk kari",
+    "5 cili kering",
+    "1 biji bawang",
+    "garam"
+   ],
+   "steps": [
+    "Tumis bawang, cili dan serbuk kari.",
+    "Masukkan nanas dan kayu manis.",
+    "Tambah air dan gula, reneh hingga pekat.",
+    "Rasa garam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 29,
+   "title": "Daging dendeng",
+   "ingredients": [
+    "500 g daging",
+    "10 cili kering",
+    "5 biji bawang merah",
+    "2 sudu besar asam jawa",
+    "1 sudu besar gula",
+    "minyak"
+   ],
+   "steps": [
+    "Hiris nipis daging, perap dengan rempah kisar.",
+    "Jemur 3 jam.",
+    "Goreng hingga garing.",
+    "Hidang bersama nasi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 30,
+   "title": "Botok-botok ikan",
+   "ingredients": [
+    "500 g ikan",
+    "1 cawan kelapa parut",
+    "5 cili",
+    "3 biji bawang",
+    "2 cm kunyit",
+    "daun pisang"
+   ],
+   "steps": [
+    "Kisar kelapa dan rempah.",
+    "Gaul dengan ikan.",
+    "Bungkus dalam daun pisang.",
+    "Kukus 30 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 31,
+   "title": "Teh tarik",
+   "ingredients": [
+    "3 sudu besar daun teh",
+    "3 cawan air",
+    "½ cawan susu pekat manis",
+    "½ cawan susu sejat"
+   ],
+   "steps": [
+    "Rebus air dan teh 5 minit, tapis.",
+    "Campur susu pekat dan susu sejat dalam cawan.",
+    "Tuang teh panas.",
+    "Tarik berulang kali antara dua bekas hingga berbuih."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 32,
+   "title": "Cendol",
+   "ingredients": [
+    "1 cawan tepung beras",
+    "2 helai daun pandan",
+    "1 cawan gula Melaka",
+    "1 cawan santan",
+    "ais kisar",
+    "kacang merah",
+    "sedikit garam"
+   ],
+   "steps": [
+    "Kisar pandan dengan air, campur tepung beras dan masak jadi adunan.",
+    "Tekan adunan melalui acuan ke dalam air ais.",
+    "Cairkan gula Melaka dengan ½ cawan air.",
+    "Susun ais, cendol, kacang merah, santan dan gula Melaka."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 33,
+   "title": "ABC",
+   "ingredients": [
+    "1 cawan ais kisar",
+    "2 sudu besar kacang merah",
+    "2 sudu besar jagung",
+    "2 sudu besar cincau",
+    "sirap ros",
+    "susu pekat manis"
+   ],
+   "steps": [
+    "Susun kacang, jagung dan cincau dalam mangkuk.",
+    "Letak ais kisar.",
+    "Tuang sirap dan susu pekat.",
+    "Hidang segera."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 34,
+   "title": "Air kelapa",
+   "ingredients": [
+    "1 biji kelapa muda",
+    "ais batu",
+    "gula (pilihan)"
+   ],
+   "steps": [
+    "Belah kelapa, tuang air dalam gelas.",
+    "Masukkan isi kelapa muda.",
+    "Tambah ais.",
+    "Hidang sejuk."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 35,
+   "title": "Air selasih",
+   "ingredients": [
+    "1 sudu besar biji selasih",
+    "2 cawan air",
+    "3 sudu besar gula",
+    "ais",
+    "sirap ros"
+   ],
+   "steps": [
+    "Rendam selasih dalam air sejuk hingga kembang.",
+    "Larutkan gula dalam air.",
+    "Campur selasih.",
+    "Tuang ais dan sirap."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 36,
+   "title": "Hinava/Umai",
+   "ingredients": [
+    "300 g ikan tenggiri segar",
+    "3 biji limau nipis",
+    "2 biji bawang merah",
+    "2 cm halia",
+    "2 biji cili merah",
+    "1 batang bunga kantan",
+    "garam"
+   ],
+   "steps": [
+    "Hiris nipis ikan.",
+    "Rendam dalam jus limau 20 minit, toskan.",
+    "Campur bawang, halia, cili, bunga kantan dan garam.",
+    "Gaul bersama ikan, sejukkan dan hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 37,
+   "title": "Pekasam",
+   "ingredients": [
+    "1 kg ikan segar",
+    "3 sudu besar garam",
+    "1 cawan beras sangrai kisar",
+    "1 sudu besar asam keping"
+   ],
+   "steps": [
+    "Garam ikan 1 hari.",
+    "Gaul dengan beras sangrai.",
+    "Padatkan dalam balang.",
+    "Perap 1 minggu dalam bekas bersih."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 38,
+   "title": "Tempoyak",
+   "ingredients": [
+    "10 biji durian",
+    "1 sudu besar garam"
+   ],
+   "steps": [
+    "Ambil isi durian.",
+    "Gaul dengan garam.",
+    "Padatkan dalam balang bersih.",
+    "Perap 3 hari suhu bilik."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 39,
+   "title": "Otak-otak",
+   "ingredients": [
+    "500 g ikan tenggiri",
+    "1 cawan santan",
+    "5 cili kering",
+    "3 ulas bawang putih",
+    "1 sudu teh gula",
+    "garam",
+    "daun pisang"
+   ],
+   "steps": [
+    "Kisar ikan dan rempah.",
+    "Campur santan dan garam.",
+    "Bungkus dengan daun pisang.",
+    "Bakar hingga masak."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 40,
+   "title": "Sambal belacan",
+   "ingredients": [
+    "10 cili merah",
+    "2 cili api",
+    "1 sudu besar belacan bakar",
+    "1 biji limau kasturi",
+    "½ sudu teh gula",
+    "garam"
+   ],
+   "steps": [
+    "Tumbuk cili dan belacan bakar kasar.",
+    "Masukkan gula dan garam.",
+    "Perah limau kasturi dan gaul sebelum hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 41,
+   "title": "Cencaluk",
+   "ingredients": [
+    "500 g udang geragau",
+    "1 cawan garam",
+    "1 sudu besar gula",
+    "2 biji limau"
+   ],
+   "steps": [
+    "Campur udang dengan garam.",
+    "Simpan dalam balang 3 hari.",
+    "Tambah gula dan limau.",
+    "Hidang dengan nasi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 42,
+   "title": "Satay",
+   "ingredients": [
+    "500 g daging atau ayam",
+    "3 batang serai",
+    "2 cm lengkuas",
+    "5 biji bawang merah",
+    "2 sudu besar kunyit",
+    "1 sudu besar gula",
+    "1 cawan kacang tumbuk",
+    "lidi satay"
+   ],
+   "steps": [
+    "Kisar serai, lengkuas, bawang, kunyit.",
+    "Gaul daging dihiris nipis dengan rempah dan gula, perap 2 jam.",
+    "Cucuk pada lidi.",
+    "Bakar atas bara sambil disapu minyak, hidang dengan kuah kacang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 43,
+   "title": "Yee sang",
+   "ingredients": [
+    "2 cawan lobak merah parut",
+    "1 cawan lobak putih parut",
+    "1 cawan kulit pomelo",
+    "kerepek",
+    "sos buah plum",
+    "minyak bijan",
+    "kacang tanah"
+   ],
+   "steps": [
+    "Susun sayur atas pinggan.",
+    "Taburkan kacang, kerepek.",
+    "Tuang sos plum dan minyak bijan.",
+    "Gaul beramai-ramai."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 44,
+   "title": "Sata",
+   "ingredients": [
+    "500 g ikan tenggiri kisar",
+    "1 cawan santan",
+    "8 cili kering",
+    "4 biji bawang merah",
+    "1 sudu besar gula",
+    "garam",
+    "daun pisang"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Gaul dengan ikan dan santan.",
+    "Bungkus dalam daun pisang.",
+    "Bakar."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 45,
+   "title": "Telur pindang",
+   "ingredients": [
+    "6 biji telur",
+    "1 sudu besar daun teh",
+    "2 sudu besar kicap",
+    "2 sudu besar gula",
+    "1 sudu teh garam",
+    "rempah (bunga lawang)"
+   ],
+   "steps": [
+    "Rebus telur 10 minit, retakkan kulit.",
+    "Masukkan teh, kicap, gula dan bunga lawang.",
+    "Reneh 1 jam.",
+    "Rendam semalaman."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 46,
+   "title": "Kerabu mangga muda",
+   "ingredients": [
+    "2 biji mangga muda",
+    "2 biji cili merah",
+    "3 biji bawang merah",
+    "1 sudu besar belacan",
+    "1 sudu besar gula",
+    "1 biji limau nipis"
+   ],
+   "steps": [
+    "Hiris mangga.",
+    "Tumbuk cili, bawang dan belacan.",
+    "Campur gula dan limau.",
+    "Gaul dengan mangga."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 47,
+   "title": "Acar buah",
+   "ingredients": [
+    "1 biji timun",
+    "1 biji lobak merah",
+    "1 biji nanas kecil",
+    "4 sudu besar cuka",
+    "3 sudu besar gula",
+    "1 sudu teh garam",
+    "kacang tumbuk"
+   ],
+   "steps": [
+    "Hiris sayur dan nanas.",
+    "Rebus cuka, gula dan garam, sejukkan.",
+    "Rendam sayur 2 jam.",
+    "Taburkan kacang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 48,
+   "title": "Kuih keria",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "1 cawan air",
+    "1 sudu teh garam",
+    "minyak untuk menggoreng",
+    "1 cawan gula"
+   ],
+   "steps": [
+    "Uli tepung, air dan garam jadi doh.",
+    "Picit melalui acuan keria hingga ke dalam minyak panas.",
+    "Goreng hingga kuning keemasan.",
+    "Tos, golek dalam gula yang dikerak."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 49,
+   "title": "Kuih koci",
+   "ingredients": [
+    "2 cawan tepung pulut",
+    "½ cawan air",
+    "1 cawan kelapa parut",
+    "½ cawan gula Melaka",
+    "daun pisang"
+   ],
+   "steps": [
+    "Uli tepung dengan air.",
+    "Inti: masak kelapa dan gula Melaka.",
+    "Isi dan bungkus dengan daun pisang.",
+    "Kukus 20 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 50,
+   "title": "Akok",
+   "ingredients": [
+    "3 biji telur",
+    "1 cawan gula",
+    "1 cawan tepung gandum",
+    "1 cawan santan",
+    "½ sudu teh garam",
+    "daun pandan"
+   ],
+   "steps": [
+    "Pukul telur dan gula hingga kembang.",
+    "Masukkan tepung, santan dan garam.",
+    "Tuang adunan dalam acuan panas.",
+    "Bakar api atas bawah hingga perang keemasan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 51,
+   "title": "Kuih seri muka",
+   "ingredients": [
+    "2 cawan pulut",
+    "1 cawan santan",
+    "5 biji telur",
+    "1 cawan gula",
+    "½ cawan tepung",
+    "1 cawan santan",
+    "daun pandan kisar"
+   ],
+   "steps": [
+    "Kukus pulut bersama santan dan garam 25 minit, tekan dalam loyang.",
+    "Pukul telur, gula, tepung, santan dan pandan.",
+    "Kukus adunan atas pulut 30 minit.",
+    "Sejukkan dan potong."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 52,
+   "title": "Kuih cara",
+   "ingredients": [
+    "1 cawan tepung beras",
+    "½ cawan tepung gandum",
+    "1 cawan gula",
+    "3 cawan santan",
+    "1 cawan air pandan"
+   ],
+   "steps": [
+    "Campur tepung, gula dan santan.",
+    "Masak hingga pekat.",
+    "Tuang dalam acuan.",
+    "Kukus 25 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 53,
+   "title": "Kuih bingka",
+   "ingredients": [
+    "6 biji telur",
+    "1 cawan gula",
+    "2 cawan santan",
+    "1 cawan tepung gandum",
+    "daun pandan"
+   ],
+   "steps": [
+    "Pukul telur dan gula.",
+    "Campur santan dan tepung.",
+    "Tuang dalam loyang.",
+    "Bakar 180°C 40 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 54,
+   "title": "Kuih bakul",
+   "ingredients": [
+    "2 cawan tepung pulut",
+    "1 cawan gula Melaka",
+    "1 cawan air",
+    "daun pisang"
+   ],
+   "steps": [
+    "Rebus gula dengan air.",
+    "Campur tepung.",
+    "Masak hingga pekat.",
+    "Kukus 2 jam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 55,
+   "title": "Kuih bulan",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "½ cawan marjerin",
+    "1 cawan kacang merah",
+    "¾ cawan gula",
+    "1 biji telur"
+   ],
+   "steps": [
+    "Uli tepung, marjerin dan gula.",
+    "Isi inti.",
+    "Bentuk bulat.",
+    "Bakar 180°C 20 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 56,
+   "title": "Kuih cincin",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan gula Melaka",
+    "1 cawan air",
+    "minyak"
+   ],
+   "steps": [
+    "Rebus gula dengan air, sejukkan.",
+    "Campur tepung.",
+    "Tuang adunan dalam minyak panas dalam bentuk cincin.",
+    "Goreng hingga perang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 57,
+   "title": "Apam balik",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "1 biji telur",
+    "1 sudu teh yis",
+    "1 cawan air",
+    "½ cawan gula",
+    "kacang tumbuk",
+    "jagung manis"
+   ],
+   "steps": [
+    "Campur tepung, telur, yis, gula dan air, rehat 30 minit.",
+    "Tuang atas kuali leper panas, tutup.",
+    "Taburkan gula, kacang dan jagung.",
+    "Lipat dua dan potong."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 58,
+   "title": "Pisang goreng",
+   "ingredients": [
+    "8 biji pisang raja",
+    "1 cawan tepung gandum",
+    "¼ cawan tepung beras",
+    "½ cawan air",
+    "1 sudu besar gula",
+    "sedikit garam",
+    "minyak"
+   ],
+   "steps": [
+    "Campur tepung, gula, garam dan air jadi adunan pekat.",
+    "Salut pisang yang dibelah.",
+    "Goreng dalam minyak panas hingga keemasan.",
+    "Tos dan hidang panas."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 59,
+   "title": "Keropok",
+   "ingredients": [
+    "250 g tepung ubi kayu",
+    "100 g udang kisar",
+    "1 sudu teh garam",
+    "1 sudu teh gula",
+    "air panas"
+   ],
+   "steps": [
+    "Campur bahan hingga jadi doh.",
+    "Gulung dan kukus 30 minit.",
+    "Sejuk, hiris nipis.",
+    "Jemur dan goreng."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 60,
+   "title": "Karipap",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "3 sudu besar marjerin",
+    "2 biji kentang",
+    "1 biji bawang",
+    "2 sudu besar serbuk kari",
+    "½ cawan air",
+    "minyak"
+   ],
+   "steps": [
+    "Uli tepung, marjerin dan air jadi doh.",
+    "Tumis bawang, serbuk kari dan kentang rebus untuk inti.",
+    "Letak inti atas doh bulat, lipat dan kelim.",
+    "Goreng hingga keemasan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 61,
+   "title": "Onde-onde",
+   "ingredients": [
+    "2 cawan tepung pulut",
+    "1 biji ubi keledek kukus",
+    "½ cawan air pandan",
+    "1 cawan gula Melaka",
+    "1 cawan kelapa parut",
+    "sedikit garam"
+   ],
+   "steps": [
+    "Uli tepung, ubi dan air pandan jadi doh.",
+    "Isi gula Melaka dalam bebola doh.",
+    "Rebus hingga timbul.",
+    "Golek dalam kelapa parut bergaram."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 62,
+   "title": "Lempeng",
+   "ingredients": [
+    "1 cawan tepung gandum",
+    "1 cawan kelapa parut",
+    "1 biji telur",
+    "1 cawan santan",
+    "1 sudu besar gula",
+    "garam"
+   ],
+   "steps": [
+    "Campurkan semua bahan hingga licin.",
+    "Tuang atas kuali leper.",
+    "Masak kedua belah.",
+    "Hidang bersama kuah."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 63,
+   "title": "Bahulu",
+   "ingredients": [
+    "4 biji telur",
+    "1 cawan gula",
+    "1 cawan tepung gandum",
+    "½ sudu teh baking powder",
+    "½ sudu teh esen vanila"
+   ],
+   "steps": [
+    "Pukul telur dan gula hingga putih dan pekat.",
+    "Lipat tepung dan baking powder.",
+    "Tuang dalam acuan bahulu yang disapu minyak.",
+    "Bakar 180°C selama 12 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 64,
+   "title": "Dodol",
+   "ingredients": [
+    "2 cawan tepung pulut",
+    "2 cawan gula Melaka",
+    "4 cawan santan",
+    "1 cawan gula"
+   ],
+   "steps": [
+    "Campur semua bahan dalam kuali.",
+    "Kacau tanpa henti 3 jam.",
+    "Tuang dalam loyang.",
+    "Sejukkan, potong."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 65,
+   "title": "Lempuk durian",
+   "ingredients": [
+    "500 g isi durian",
+    "1 cawan gula",
+    "1 cawan tepung pulut"
+   ],
+   "steps": [
+    "Masak durian dan gula.",
+    "Masukkan tepung.",
+    "Kacau hingga pekat.",
+    "Jemur dan potong."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 66,
+   "title": "Wajik",
+   "ingredients": [
+    "3 cawan beras pulut",
+    "2 cawan santan",
+    "1 cawan gula Melaka",
+    "1 helai pandan",
+    "garam"
+   ],
+   "steps": [
+    "Kukus pulut.",
+    "Masak santan, gula dan garam hingga pekat.",
+    "Campur dengan pulut.",
+    "Tekan dalam loyang dan sejukkan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 67,
+   "title": "Seri kaya",
+   "ingredients": [
+    "2 cawan pulut",
+    "½ cawan santan",
+    "4 biji telur",
+    "1 cawan santan",
+    "1 cawan gula",
+    "1 cawan tepung"
+   ],
+   "steps": [
+    "Kukus pulut dengan santan.",
+    "Pukul telur dan gula.",
+    "Tuang atas pulut.",
+    "Kukus 30 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 68,
+   "title": "Halwa",
+   "ingredients": [
+    "1 cawan tepung jagung",
+    "2 cawan gula",
+    "3 cawan air",
+    "½ cawan minyak sapi",
+    "kacang gajus",
+    "serbuk kunyit"
+   ],
+   "steps": [
+    "Larutkan tepung dalam air.",
+    "Masukkan gula dan minyak sapi.",
+    "Kacau hingga pekat.",
+    "Tuang, sejukkan dan potong."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 69,
+   "title": "Tapai",
+   "ingredients": [
+    "1 kg ubi kayu",
+    "1 sudu besar ragi tapai",
+    "daun pisang"
+   ],
+   "steps": [
+    "Kukus ubi kayu.",
+    "Sejukkan.",
+    "Gaul dengan ragi.",
+    "Simpan 2 hari dalam bekas tertutup."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 70,
+   "title": "Putu mayam",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "2 cawan air panas",
+    "1 sudu teh garam"
+   ],
+   "steps": [
+    "Campur tepung dan garam.",
+    "Tuang air panas hingga jadi doh.",
+    "Picit melalui acuan jadi mi halus.",
+    "Kukus 10 minit dengan gula dan kelapa."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 71,
+   "title": "Muruku",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "½ cawan tepung kacang",
+    "1 sudu teh jintan",
+    "garam",
+    "minyak"
+   ],
+   "steps": [
+    "Campur bahan dengan air jadi doh.",
+    "Picit ikut acuan.",
+    "Goreng hingga perang.",
+    "Tos."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 72,
+   "title": "Roti jala",
+   "ingredients": [
+    "1 cawan tepung gandum",
+    "1 biji telur",
+    "1½ cawan air",
+    "½ cawan santan",
+    "½ sudu teh garam",
+    "minyak"
+   ],
+   "steps": [
+    "Kisar semua bahan hingga licin dan tapis.",
+    "Tuang dalam acuan jala atas kuali panas dalam pusaran.",
+    "Masak 30 saat tanpa dibalik.",
+    "Lipat dan hidang dengan kari."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 73,
+   "title": "Roti canai",
+   "ingredients": [
+    "3 cawan tepung gandum",
+    "1 biji telur",
+    "¾ cawan air",
+    "½ sudu teh garam",
+    "1 sudu besar gula",
+    "4 sudu besar minyak sapi"
+   ],
+   "steps": [
+    "Uli bahan jadi doh lembut, bahagi bebola dan rendam dalam minyak 4 jam.",
+    "Lebarkan nipis, lipat jadi bentuk bulat.",
+    "Goreng atas tawa panas hingga keperangan.",
+    "Hentak untuk kerangup dan hidang dengan dhal."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 74,
+   "title": "Tosai",
+   "ingredients": [
+    "1 cawan beras",
+    "½ cawan dhal",
+    "½ sudu teh halba",
+    "1 sudu teh garam",
+    "minyak"
+   ],
+   "steps": [
+    "Rendam beras dan dhal 6 jam, kisar licin dengan halba.",
+    "Perap semalaman hingga kembang.",
+    "Tuang atas tawa panas, lebarkan nipis.",
+    "Masak hingga perang, hidang dengan chutney."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 75,
+   "title": "Bubur sum-sum",
+   "ingredients": [
+    "½ cawan tepung beras",
+    "2 cawan santan",
+    "4 cawan air",
+    "½ cawan gula",
+    "1 helai pandan"
+   ],
+   "steps": [
+    "Masak air, pandan dan gula.",
+    "Larutkan tepung dalam air.",
+    "Masukkan dan masak hingga pekat.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 76,
+   "title": "Bubur kacang hijau",
+   "ingredients": [
+    "1 cawan kacang hijau",
+    "6 cawan air",
+    "½ cawan gula",
+    "1 helai pandan",
+    "1 cawan santan",
+    "garam"
+   ],
+   "steps": [
+    "Rebus kacang hijau dengan pandan hingga lembut.",
+    "Masukkan gula, kacau.",
+    "Masukkan santan dan garam, panaskan sebentar.",
+    "Hidang suam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 77,
+   "title": "Yong tau foo",
+   "ingredients": [
+    "10 keping tauhu",
+    "5 biji cili besar",
+    "200 g ikan kisar",
+    "sawi",
+    "5 biji bendi",
+    "kuah sup ikan"
+   ],
+   "steps": [
+    "Sumbat ikan kisar dalam tauhu dan sayuran.",
+    "Rebus dalam kuah.",
+    "Reneh 10 minit.",
+    "Hidang dengan sos cili."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 78,
+   "title": "Mi kari",
+   "ingredients": [
+    "300 g mi kuning",
+    "2 sudu besar serbuk kari",
+    "1 biji bawang",
+    "3 ulas bawang putih",
+    "400 ml santan",
+    "ayam 200 g",
+    "tauhu goreng",
+    "taugeh"
+   ],
+   "steps": [
+    "Tumis bawang, bawang putih dan serbuk kari.",
+    "Masukkan ayam dan 2 cawan air, reneh 15 minit.",
+    "Masukkan santan dan garam.",
+    "Hidang kuah atas mi, tauhu dan taugeh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 79,
+   "title": "Puding Raja",
+   "ingredients": [
+    "1 cawan susu",
+    "¾ cawan gula",
+    "3 biji telur",
+    "1 sudu teh vanila",
+    "2 sudu besar gelatin"
+   ],
+   "steps": [
+    "Panaskan susu dan gula.",
+    "Pukul telur dan vanila.",
+    "Campur dan masukkan gelatin.",
+    "Sejukkan dalam peti ais."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 80,
+   "title": "Pengat",
+   "ingredients": [
+    "3 biji pisang",
+    "1 cawan gula Melaka",
+    "2 cawan santan",
+    "1 helai pandan"
+   ],
+   "steps": [
+    "Rebus gula Melaka dengan santan.",
+    "Masukkan pisang.",
+    "Reneh 10 minit.",
+    "Hidang panas."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 81,
+   "title": "Tau Fu Fa",
+   "ingredients": [
+    "1 cawan susu soya",
+    "1 sudu teh agar-agar",
+    "gula batu",
+    "halia"
+   ],
+   "steps": [
+    "Rebus susu dan agar-agar.",
+    "Sejukkan hingga set.",
+    "Rebus gula dan halia.",
+    "Hidang atas tauhu."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 82,
+   "title": "Bubur cha-cha",
+   "ingredients": [
+    "1 biji keledek",
+    "1 biji keladi",
+    "1 cawan sagu",
+    "2 cawan santan",
+    "1 cawan gula",
+    "pandan"
+   ],
+   "steps": [
+    "Rebus keledek dan keladi.",
+    "Masak sagu.",
+    "Reneh santan dan gula.",
+    "Campurkan semua."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 83,
+   "title": "Popia",
+   "ingredients": [
+    "10 keping kulit popia",
+    "200 g sengkuang",
+    "100 g udang",
+    "1 biji bawang",
+    "2 sudu besar kicap",
+    "minyak"
+   ],
+   "steps": [
+    "Tumis bawang dan udang.",
+    "Masukkan sengkuang.",
+    "Isi dalam kulit dan gulung.",
+    "Goreng."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 84,
+   "title": "Pie Tee",
+   "ingredients": [
+    "10 cawan kulit pie tee",
+    "200 g sengkuang",
+    "100 g udang",
+    "2 sudu besar sos cili",
+    "1 sudu teh gula"
+   ],
+   "steps": [
+    "Tumis sengkuang, udang.",
+    "Isi dalam kulit.",
+    "Hidang bersama sos.",
+    "Makan segera."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 85,
+   "title": "Ambuyat/Pinantung",
+   "ingredients": [
+    "2 cawan tepung sagu",
+    "2 cawan air panas"
+   ],
+   "steps": [
+    "Larutkan tepung dengan air sejuk.",
+    "Tuang air panas, kacau hingga lut sinar.",
+    "Gulung dengan penyepit.",
+    "Hidang dengan sambal."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 86,
+   "title": "Nonsom Bambangan",
+   "ingredients": [
+    "3 biji bambangan",
+    "1 cawan garam",
+    "3 cili api",
+    "2 cm halia"
+   ],
+   "steps": [
+    "Parut bambangan.",
+    "Gaul dengan garam.",
+    "Padatkan dalam balang.",
+    "Perap 3 hari."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 87,
+   "title": "Tuak",
+   "ingredients": [
+    "3 cawan beras pulut",
+    "1 biji ragi",
+    "3 cawan air"
+   ],
+   "steps": [
+    "Kukus pulut.",
+    "Sejukkan dan gaul dengan ragi.",
+    "Simpan dalam balang kedap.",
+    "Tapai terhasil dalam 3 hari (dewasa sahaja)."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 88,
+   "title": "Rojak",
+   "ingredients": [
+    "2 biji jambu air",
+    "1 biji timun",
+    "1 keping tauhu goreng",
+    "2 sudu besar kacang tumbuk",
+    "2 sudu besar kuah rojak (petis dan asam jawa)",
+    "1 sudu besar gula"
+   ],
+   "steps": [
+    "Potong buah dan tauhu.",
+    "Campur petis, asam jawa dan gula jadi kuah.",
+    "Gaul bersama buah dan tauhu.",
+    "Taburkan kacang tumbuk."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 89,
+   "title": "Putu piring",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan kelapa parut",
+    "1 cawan gula Melaka",
+    "1 cawan air"
+   ],
+   "steps": [
+    "Uli tepung dengan air.",
+    "Isi gula Melaka.",
+    "Kukus dalam acuan.",
+    "Taburkan kelapa."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 90,
+   "title": "Martabak",
+   "ingredients": [
+    "4 keping roti martabak",
+    "200 g daging cincang",
+    "2 biji telur",
+    "1 biji bawang besar",
+    "1 sudu besar serbuk kari",
+    "daun sup"
+   ],
+   "steps": [
+    "Tumis bawang dan serbuk kari, masukkan daging hingga masak.",
+    "Campur telur dan daun sup.",
+    "Letak inti atas doh, lipat segi empat.",
+    "Goreng atas tawa hingga keperangan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 91,
+   "title": "Capati",
+   "ingredients": [
+    "2 cawan tepung atta",
+    "¾ cawan air",
+    "½ sudu teh garam",
+    "1 sudu besar minyak"
+   ],
+   "steps": [
+    "Uli semua bahan jadi doh, rehat 30 minit.",
+    "Bentuk bebola dan lebarkan nipis.",
+    "Masak atas tawa panas hingga timbul gelembung.",
+    "Balikkan dan masak hingga berbintik perang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 92,
+   "title": "Jemput-jemput",
+   "ingredients": [
+    "1 cawan tepung gandum",
+    "100 g udang cincang",
+    "1 biji bawang",
+    "2 batang daun bawang",
+    "1 biji cili",
+    "¾ cawan air",
+    "garam",
+    "minyak"
+   ],
+   "steps": [
+    "Campur semua bahan hingga adunan pekat.",
+    "Sudu sedikit dalam minyak panas.",
+    "Goreng hingga keemasan dan rangup.",
+    "Tos dan hidang dengan cili."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 93,
+   "title": "Sambal biji getah",
+   "ingredients": [
+    "10 biji buah getah",
+    "5 biji cili",
+    "1 biji bawang",
+    "1 sudu besar belacan",
+    "1 sudu besar gula",
+    "garam"
+   ],
+   "steps": [
+    "Kisar bahan.",
+    "Tumis hingga wangi.",
+    "Masukkan gula dan garam.",
+    "Masak hingga pekat."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 94,
+   "title": "Sambal tempoyak daun kayu",
+   "ingredients": [
+    "500 g ikan",
+    "1 biji nangka",
+    "4 sudu besar tempoyak",
+    "5 cili api",
+    "3 biji bawang merah",
+    "2 batang serai"
+   ],
+   "steps": [
+    "Kisar cili, bawang dan serai.",
+    "Tumis dengan tempoyak.",
+    "Masukkan ikan dan daun kayu.",
+    "Reneh 15 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 95,
+   "title": "Kari Kapitan",
+   "ingredients": [
+    "1 kg ayam",
+    "3 biji bawang",
+    "4 ulas bawang putih",
+    "3 cm halia",
+    "3 sudu besar serbuk kari",
+    "2 cawan santan",
+    "3 biji kentang",
+    "1 sudu besar asam jawa",
+    "garam"
+   ],
+   "steps": [
+    "Tumis bawang, bawang putih, halia dan serbuk kari.",
+    "Masukkan ayam, kentang dan 1 cawan air.",
+    "Reneh 25 minit.",
+    "Masukkan santan dan asam jawa, rasa garam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 96,
+   "title": "Nasi Kembuli",
+   "ingredients": [
+    "3 cawan beras basmati",
+    "1 kg daging kambing",
+    "2 biji bawang",
+    "4 ulas bawang putih",
+    "3 cm halia",
+    "2 sudu besar rempah kembuli",
+    "1 cawan yogurt",
+    "minyak sapi",
+    "garam"
+   ],
+   "steps": [
+    "Perap daging dengan yogurt dan rempah.",
+    "Tumis bawang, masukkan daging, masak 40 minit.",
+    "Masukkan beras dan air secukupnya.",
+    "Masak api kecil hingga nasi masak."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 97,
+   "title": "Sambal goreng",
+   "ingredients": [
+    "3 biji tempe",
+    "100 g kacang panjang",
+    "5 cili kering",
+    "3 biji bawang merah",
+    "2 ulas bawang putih",
+    "1 cawan santan",
+    "1 sudu besar gula",
+    "garam"
+   ],
+   "steps": [
+    "Kisar cili, bawang dan bawang putih, tumis.",
+    "Masukkan tempe dan kacang panjang.",
+    "Tuang santan.",
+    "Reneh hingga pekat, rasa gula dan garam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 98,
+   "title": "Ayam Pongteh",
+   "ingredients": [
+    "600 g ayam",
+    "8 biji bawang kecil",
+    "4 ulas bawang putih",
+    "3 sudu besar tauceo",
+    "2 biji kentang",
+    "1 sudu besar gula Melaka",
+    "1 sudu besar kicap",
+    "minyak"
+   ],
+   "steps": [
+    "Tumis bawang dan tauceo.",
+    "Masukkan ayam dan kentang, kacau.",
+    "Tambah 1½ cawan air, gula Melaka dan kicap.",
+    "Reneh 30 minit hingga pekat."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 99,
+   "title": "Ayam masak buah keluak",
+   "ingredients": [
+    "600 g ayam",
+    "3 biji buah keluak",
+    "2 biji bawang",
+    "4 ulas bawang putih",
+    "3 sudu besar rempah",
+    "1 sudu besar asam jawa"
+   ],
+   "steps": [
+    "Kisar rempah dan keluak.",
+    "Tumis.",
+    "Masukkan ayam.",
+    "Reneh 30 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 100,
+   "title": "Jantung pisang",
+   "ingredients": [
+    "1 biji jantung pisang",
+    "1 cawan santan",
+    "5 biji bawang merah",
+    "3 cili merah",
+    "1 cawan udang",
+    "garam"
+   ],
+   "steps": [
+    "Hiris jantung pisang, rendam air garam.",
+    "Kisar bawang dan cili, tumis.",
+    "Masukkan udang dan jantung pisang.",
+    "Tuang santan, reneh hingga lembut."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 101,
+   "title": "Tempe",
+   "ingredients": [
+    "2 cawan kacang soya",
+    "1 sudu teh ragi tempe",
+    "1 sudu besar cuka",
+    "daun pisang"
+   ],
+   "steps": [
+    "Rebus soya, buang kulit.",
+    "Tos dan campur cuka dan ragi.",
+    "Bungkus dalam daun berlubang.",
+    "Perap 36 jam hingga berkulat putih."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 102,
+   "title": "Keema",
+   "ingredients": [
+    "500 g daging cincang",
+    "1 biji bawang",
+    "3 ulas bawang putih",
+    "1 sudu besar serbuk kari",
+    "1 cawan kacang pis",
+    "2 biji tomato",
+    "garam"
+   ],
+   "steps": [
+    "Tumis bawang dan serbuk kari.",
+    "Masukkan daging, kacau 10 minit.",
+    "Masukkan tomato dan kacang pis.",
+    "Reneh 15 minit hingga kering."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 103,
+   "title": "Inche Kabin",
+   "ingredients": [
+    "500 g ayam",
+    "1 biji bawang",
+    "4 sudu besar santan",
+    "5 biji kentang",
+    "1 sudu besar cili"
+   ],
+   "steps": [
+    "Tumis bawang.",
+    "Masukkan ayam.",
+    "Tambah kentang.",
+    "Reneh dengan santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 104,
+   "title": "Kari Dabel",
+   "ingredients": [
+    "600 g ayam",
+    "4 sudu besar serbuk kari",
+    "1 biji bawang",
+    "4 ulas bawang putih",
+    "1 cawan santan",
+    "daun kari"
+   ],
+   "steps": [
+    "Tumis rempah.",
+    "Masukkan ayam.",
+    "Tuang air.",
+    "Masukkan santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 105,
+   "title": "Budu",
+   "ingredients": [
+    "1 kg ikan bilis kecil",
+    "1 cawan garam",
+    "3 cawan air"
+   ],
+   "steps": [
+    "Garam ikan 2 hari.",
+    "Masukkan air.",
+    "Simpan dalam bekas bersih 3 bulan.",
+    "Tapis dan simpan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 106,
+   "title": "Nasi Minyak",
+   "ingredients": [
+    "3 cawan beras basmati",
+    "4 sudu besar minyak sapi",
+    "1 biji bawang",
+    "kayu manis, buah pelaga, bunga lawang",
+    "4½ cawan air",
+    "garam"
+   ],
+   "steps": [
+    "Tumis bawang dan rempah dalam minyak sapi.",
+    "Masukkan beras, gaul.",
+    "Tuang air dan garam.",
+    "Masak hingga nasi masak."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 107,
+   "title": "Pulut Durian",
+   "ingredients": [
+    "2 cawan pulut",
+    "1 cawan santan",
+    "5 ulas durian",
+    "½ cawan gula",
+    "garam"
+   ],
+   "steps": [
+    "Kukus pulut.",
+    "Masak santan, gula dan garam.",
+    "Gaul sebahagian dengan pulut.",
+    "Hidang dengan durian."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 108,
+   "title": "Kelupis",
+   "ingredients": [
+    "2 cawan pulut",
+    "1 cawan santan",
+    "daun nipah",
+    "garam"
+   ],
+   "steps": [
+    "Masak pulut dengan santan separuh masak.",
+    "Bungkus dalam daun.",
+    "Kukus 30 minit.",
+    "Hidang dengan kuah."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 109,
+   "title": "Nasi dalam buluh",
+   "ingredients": [
+    "2 cawan beras",
+    "2 cawan santan",
+    "buluh",
+    "daun pisang"
+   ],
+   "steps": [
+    "Masukkan beras dan santan dalam buluh.",
+    "Tutup dengan daun.",
+    "Bakar 3 jam.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 110,
+   "title": "Ikan cencaru sumbat",
+   "ingredients": [
+    "3 ekor ikan cencaru",
+    "1 cawan kelapa parut",
+    "5 cili",
+    "3 ulas bawang putih",
+    "2 sudu besar asam jawa"
+   ],
+   "steps": [
+    "Kisar kelapa dan rempah.",
+    "Sumbat dalam ikan.",
+    "Bakar atau goreng.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 111,
+   "title": "Sayur Midin Goreng",
+   "ingredients": [
+    "300 g midin",
+    "3 ulas bawang putih",
+    "3 cili api",
+    "1 sudu besar belacan",
+    "minyak"
+   ],
+   "steps": [
+    "Basuh midin.",
+    "Tumis bawang putih dan belacan.",
+    "Masukkan midin.",
+    "Goreng 3 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 112,
+   "title": "Bubur Lambuk",
+   "ingredients": [
+    "1 cawan beras",
+    "200 g daging cincang",
+    "2 cm halia",
+    "1 biji bawang",
+    "1 sudu besar rempah bubur",
+    "2 helai daun sup",
+    "1 cawan santan",
+    "garam"
+   ],
+   "steps": [
+    "Tumis bawang, halia dan rempah.",
+    "Masukkan daging dan beras, tambah 8 cawan air.",
+    "Reneh hingga beras hancur.",
+    "Masukkan santan, garam dan daun sup."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 113,
+   "title": "Ais Kepal",
+   "ingredients": [
+    "2 cawan ais kisar",
+    "sirap ros",
+    "2 sudu besar kacang merah",
+    "2 sudu besar jagung",
+    "susu pekat",
+    "gula Melaka cair"
+   ],
+   "steps": [
+    "Tekan ais jadi gunung dalam mangkuk.",
+    "Letak kacang dan jagung.",
+    "Siram sirap dan susu pekat.",
+    "Tuang gula Melaka."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 114,
+   "title": "Kek Lapis Sarawak",
+   "ingredients": [
+    "10 biji telur",
+    "1 cawan gula",
+    "1 cawan tepung",
+    "1 cawan mentega",
+    "1 sudu teh esen vanila"
+   ],
+   "steps": [
+    "Pukul telur dan gula hingga kembang.",
+    "Lipat tepung dan mentega cair.",
+    "Bakar satu lapis nipis 10 minit di bawah api atas.",
+    "Ulang lapis demi lapis."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 115,
+   "title": "Jala Emas",
+   "ingredients": [
+    "8 biji telur itik",
+    "1 cawan gula",
+    "1 cawan air",
+    "kelapa kerucut"
+   ],
+   "steps": [
+    "Rebus gula dan air jadi sirap.",
+    "Pukul telur, tuang melalui acuan ke dalam sirap.",
+    "Masak sebentar.",
+    "Angkat."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 116,
+   "title": "Kuih Ros",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan santan",
+    "1 biji telur",
+    "½ cawan gula",
+    "minyak"
+   ],
+   "steps": [
+    "Campur adunan.",
+    "Panaskan acuan dalam minyak.",
+    "Celup dalam adunan.",
+    "Goreng hingga perang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 117,
+   "title": "Kuih Kole Kacang",
+   "ingredients": [
+    "2 cawan kacang tanah",
+    "1 cawan gula",
+    "1 cawan tepung",
+    "santan"
+   ],
+   "steps": [
+    "Kisar kacang.",
+    "Campur gula dan tepung.",
+    "Tekan dalam acuan.",
+    "Bakar."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 118,
+   "title": "Kuih Bangkit",
+   "ingredients": [
+    "2 cawan tepung sagu",
+    "1 cawan kelapa parut",
+    "1 cawan gula halus",
+    "1 sudu besar santan",
+    "pandan"
+   ],
+   "steps": [
+    "Sangai tepung bersama pandan.",
+    "Campur gula dan santan.",
+    "Tekan dalam acuan.",
+    "Bakar 160°C 20 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 119,
+   "title": "Kasui",
+   "ingredients": [
+    "2 cawan tepung sagu",
+    "1 cawan gula",
+    "santan",
+    "1 cawan kelapa"
+   ],
+   "steps": [
+    "Campur tepung dan santan.",
+    "Kukus.",
+    "Sejukkan.",
+    "Potong dan salut kelapa."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 120,
+   "title": "Buah Tanjung",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "½ cawan gula",
+    "1 cawan santan",
+    "2 biji telur",
+    "minyak"
+   ],
+   "steps": [
+    "Campur adunan.",
+    "Tuang dalam acuan.",
+    "Goreng.",
+    "Tos."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 121,
+   "title": "Tepung Pelita",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan santan",
+    "1 cawan gula",
+    "pandan"
+   ],
+   "steps": [
+    "Campur tepung dan santan.",
+    "Masak adunan.",
+    "Tuang dalam acuan.",
+    "Kukus."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 122,
+   "title": "Lompat Tikam",
+   "ingredients": [
+    "1 cawan tepung beras",
+    "1 cawan gula Melaka",
+    "1 cawan santan",
+    "pandan"
+   ],
+   "steps": [
+    "Rebus gula.",
+    "Campur tepung dan santan.",
+    "Kukus.",
+    "Siram dengan sirap."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 123,
+   "title": "Kuih Siput",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "1 cawan inti kelapa",
+    "¼ cawan gula",
+    "1 biji telur"
+   ],
+   "steps": [
+    "Uli doh.",
+    "Isi inti.",
+    "Bentuk siput.",
+    "Bakar."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 124,
+   "title": "Pau",
+   "ingredients": [
+    "3 cawan tepung gandum",
+    "1 sudu teh yis",
+    "¼ cawan gula",
+    "¾ cawan air",
+    "200 g inti kacang merah"
+   ],
+   "steps": [
+    "Campur tepung, yis dan gula, uli dengan air.",
+    "Rehat 1 jam.",
+    "Isi dengan inti dan bulatkan.",
+    "Kukus 15 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 125,
+   "title": "Kuih Getas",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan gula",
+    "1 cawan santan",
+    "minyak"
+   ],
+   "steps": [
+    "Campur bahan.",
+    "Goreng sudu demi sudu.",
+    "Tos.",
+    "Salut gula."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 126,
+   "title": "Kuih Kasidah",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "1 cawan gula",
+    "3 biji telur",
+    "santan"
+   ],
+   "steps": [
+    "Pukul telur dan gula.",
+    "Campur tepung dan santan.",
+    "Masak hingga pekat.",
+    "Kukus."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 127,
+   "title": "Tebaloi",
+   "ingredients": [
+    "2 cawan tepung sagu",
+    "1 cawan kelapa parut",
+    "1 cawan gula",
+    "½ cawan air"
+   ],
+   "steps": [
+    "Sangai tepung dan kelapa.",
+    "Masukkan gula dan air.",
+    "Bentuk dalam acuan.",
+    "Bakar hingga kering."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 128,
+   "title": "Celorot",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan kelapa",
+    "1 cawan gula",
+    "pandan"
+   ],
+   "steps": [
+    "Gaul bahan.",
+    "Kukus.",
+    "Sejukkan.",
+    "Potong."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 129,
+   "title": "Kuih Ketayap",
+   "ingredients": [
+    "1 cawan tepung gandum",
+    "1 cawan santan",
+    "1 biji telur",
+    "pandan",
+    "inti kelapa"
+   ],
+   "steps": [
+    "Kisar adunan.",
+    "Masak nipis di atas kuali leper.",
+    "Isi inti.",
+    "Gulung."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 130,
+   "title": "Solok Lada",
+   "ingredients": [
+    "20 biji cili besar",
+    "100 g udang kisar",
+    "1 biji bawang",
+    "garam"
+   ],
+   "steps": [
+    "Gaul udang, bawang dan garam.",
+    "Sumbat dalam cili.",
+    "Goreng.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 131,
+   "title": "Kebebe",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan santan",
+    "gula",
+    "pandan"
+   ],
+   "steps": [
+    "Campur bahan.",
+    "Kukus dalam acuan.",
+    "Sejukkan.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 132,
+   "title": "Air Nira",
+   "ingredients": [
+    "Nira kelapa 2 liter",
+    "gula (pilihan)"
+   ],
+   "steps": [
+    "Kutip nira segar.",
+    "Tapis.",
+    "Sejukkan dengan segera.",
+    "Minum dalam sehari."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 133,
+   "title": "Durian",
+   "ingredients": [
+    "2 biji durian"
+   ],
+   "steps": [
+    "Belah durian.",
+    "Ambil isi.",
+    "Hidang sejuk.",
+    "Jangan campur alkohol."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 134,
+   "title": "Rempeyek",
+   "ingredients": [
+    "1 cawan tepung beras",
+    "½ cawan kacang tanah",
+    "1 sudu besar daun kari",
+    "1 cawan santan",
+    "serbuk kunyit",
+    "minyak"
+   ],
+   "steps": [
+    "Campur tepung, santan dan rempah.",
+    "Sendukkan nipis atas minyak panas.",
+    "Letak kacang tanah.",
+    "Goreng hingga rangup."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 135,
+   "title": "Ketupat Sotong",
+   "ingredients": [
+    "10 ekor sotong",
+    "2 cawan pulut",
+    "1 cawan santan",
+    "garam"
+   ],
+   "steps": [
+    "Bersihkan sotong.",
+    "Isi pulut separuh masak.",
+    "Rebus dalam santan.",
+    "Reneh 30 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 136,
+   "title": "Kuih Bongkong/Jongkong",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan gula",
+    "1 cawan santan",
+    "daun pisang"
+   ],
+   "steps": [
+    "Masak adunan.",
+    "Tuang dalam daun.",
+    "Kukus.",
+    "Sejukkan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 137,
+   "title": "Kuih Tahi Itik",
+   "ingredients": [
+    "2 biji telur itik",
+    "1 cawan gula",
+    "1 cawan tepung",
+    "santan"
+   ],
+   "steps": [
+    "Pukul telur.",
+    "Campur bahan.",
+    "Kukus.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 138,
+   "title": "Sambal Hitam Ikan Bilis",
+   "ingredients": [
+    "1 cawan ikan bilis",
+    "5 biji bawang merah",
+    "3 ulas bawang putih",
+    "4 cili kering",
+    "2 sudu besar kicap pekat",
+    "1 sudu besar gula"
+   ],
+   "steps": [
+    "Goreng ikan bilis hingga garing.",
+    "Tumis rempah kisar.",
+    "Masukkan kicap dan gula.",
+    "Gaul dengan ikan bilis."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 139,
+   "title": "Aiskrim Malaysia",
+   "ingredients": [
+    "2 cawan susu",
+    "4 biji kuning telur",
+    "1 cawan gula",
+    "1 cawan krim"
+   ],
+   "steps": [
+    "Panaskan susu dan gula.",
+    "Pukul telur, campur.",
+    "Masak sehingga pekat.",
+    "Beku."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 140,
+   "title": "Pulut Mangga",
+   "ingredients": [
+    "2 biji mangga masak",
+    "2 cawan pulut",
+    "1 cawan santan",
+    "½ cawan gula",
+    "garam"
+   ],
+   "steps": [
+    "Kukus pulut dengan santan.",
+    "Masak santan, gula dan garam.",
+    "Gaul separuh santan dengan pulut.",
+    "Hidang dengan mangga."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 141,
+   "title": "Cek Mek Molek",
+   "ingredients": [
+    "2 cawan tepung gandum",
+    "1 cawan santan",
+    "1 cawan gula",
+    "pandan"
+   ],
+   "steps": [
+    "Campur bahan.",
+    "Sendukkan dalam minyak.",
+    "Goreng.",
+    "Tos."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 142,
+   "title": "Cucur Jawa/Penyaram",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan gula Melaka",
+    "1 cawan santan"
+   ],
+   "steps": [
+    "Campur bahan.",
+    "Panaskan acuan.",
+    "Tuang adunan.",
+    "Goreng."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 143,
+   "title": "Kuih Angku",
+   "ingredients": [
+    "2 cawan tepung pulut",
+    "1 cawan kacang hijau",
+    "½ cawan gula",
+    "daun pisang"
+   ],
+   "steps": [
+    "Kukus kacang.",
+    "Uli doh.",
+    "Isi inti.",
+    "Cetak dan kukus."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 144,
+   "title": "Rendang Tok",
+   "ingredients": [
+    "1 kg daging",
+    "3 biji kelapa (santan pekat)",
+    "8 cili kering",
+    "5 biji bawang merah",
+    "4 batang serai",
+    "2 cm lengkuas",
+    "1 cawan kerisik",
+    "garam"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Masak daging, rempah dan santan.",
+    "Kacau 3 jam hingga kering.",
+    "Masukkan kerisik."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 145,
+   "title": "Emping Padi",
+   "ingredients": [
+    "2 cawan padi muda",
+    "½ cawan gula",
+    "1 cawan kelapa"
+   ],
+   "steps": [
+    "Sangai padi.",
+    "Tumbuk.",
+    "Gaul gula dan kelapa.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 146,
+   "title": "Pasembur Penang",
+   "ingredients": [
+    "2 biji kentang rebus",
+    "100 g tauhu goreng",
+    "50 g mi kuning",
+    "1 biji timun",
+    "taugeh",
+    "udang goreng",
+    "kuah kacang"
+   ],
+   "steps": [
+    "Hiris semua bahan.",
+    "Susun dalam pinggan.",
+    "Tuang kuah kacang manis pedas.",
+    "Hidang segera."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 147,
+   "title": "Bendi Rebus Belacan",
+   "ingredients": [
+    "10 biji bendi",
+    "3 biji bawang merah",
+    "1 sudu besar belacan",
+    "5 cili api",
+    "1 sudu besar asam jawa",
+    "garam"
+   ],
+   "steps": [
+    "Tumbuk bawang, belacan dan cili.",
+    "Rebus bersama 2 cawan air dan asam jawa.",
+    "Masukkan bendi.",
+    "Masak 5 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 148,
+   "title": "Kuih Kukus Labu Keladi",
+   "ingredients": [
+    "2 cawan labu",
+    "1 cawan keladi",
+    "1 cawan tepung",
+    "gula",
+    "santan"
+   ],
+   "steps": [
+    "Kukus labu dan keladi.",
+    "Lenyek.",
+    "Campur tepung.",
+    "Kukus."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 149,
+   "title": "Sada Pinarasakan",
+   "ingredients": [
+    "500 g ikan",
+    "5 biji bawang",
+    "3 cili",
+    "2 cm halia",
+    "asam jawa"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus.",
+    "Masukkan ikan.",
+    "Reneh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 150,
+   "title": "Ikan Masak Ampap Sabah",
+   "ingredients": [
+    "500 g ikan",
+    "3 biji tomato",
+    "3 cili",
+    "1 sudu besar asam jawa"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus.",
+    "Masukkan ikan.",
+    "Reneh 10 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 151,
+   "title": "Ayam Palekko Sabah",
+   "ingredients": [
+    "600 g ayam",
+    "3 sudu besar rempah",
+    "1 cawan santan",
+    "2 biji bawang"
+   ],
+   "steps": [
+    "Tumis rempah.",
+    "Masukkan ayam.",
+    "Tuang santan.",
+    "Reneh 30 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 152,
+   "title": "Sanggar Pappek",
+   "ingredients": [
+    "600 g pisang",
+    "5 cili",
+    "3 biji bawang",
+    "garam"
+   ],
+   "steps": [
+    "Rebus pisang.",
+    "Tumis rempah.",
+    "Masukkan pisang.",
+    "Gaul."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 153,
+   "title": "Jeruk Tuhau Sabah",
+   "ingredients": [
+    "300 g tuhau",
+    "3 cili",
+    "3 biji bawang",
+    "garam"
+   ],
+   "steps": [
+    "Hiris tuhau.",
+    "Gaul semua bahan.",
+    "Padatkan dalam balang.",
+    "Perap 2 hari."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 154,
+   "title": "Nasi Bario",
+   "ingredients": [
+    "3 cawan beras Bario",
+    "5 cawan air",
+    "garam"
+   ],
+   "steps": [
+    "Cuci beras.",
+    "Masak dengan air.",
+    "Biarkan 10 minit.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 155,
+   "title": "Tumpik Lemantak",
+   "ingredients": [
+    "500 g ikan",
+    "2 cawan sagu",
+    "1 cawan kelapa",
+    "5 cili"
+   ],
+   "steps": [
+    "Campur ikan dan rempah.",
+    "Bentuk bulat.",
+    "Rebus.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 156,
+   "title": "Paku Pakis Tumis Belacan Sarawak",
+   "ingredients": [
+    "300 g paku pakis",
+    "3 ulas bawang putih",
+    "1 sudu besar belacan",
+    "cili"
+   ],
+   "steps": [
+    "Hiris pakis.",
+    "Tumis rempah.",
+    "Masukkan pakis.",
+    "Goreng."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 157,
+   "title": "Mi Kolok Manok",
+   "ingredients": [
+    "300 g mi kolok",
+    "200 g daging ayam",
+    "1 biji bawang merah",
+    "2 sudu besar kicap manis",
+    "1 sudu besar minyak bawang",
+    "daun sawi"
+   ],
+   "steps": [
+    "Rebus ayam dan cincang.",
+    "Tumis bawang merah dan kicap manis.",
+    "Rendam mi sebentar dalam air panas dan toskan.",
+    "Gaul mi dengan minyak bawang, ayam dan sawi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 158,
+   "title": "Bubur Pedas Sarawak",
+   "ingredients": [
+    "3 cawan nasi",
+    "500 g sayur campur",
+    "1 cawan kelapa",
+    "5 cili"
+   ],
+   "steps": [
+    "Rebus sayur.",
+    "Kisar kelapa.",
+    "Masak jadi bubur.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 159,
+   "title": "Pais Udang Sarawak",
+   "ingredients": [
+    "300 g udang",
+    "2 cawan kelapa",
+    "5 cili",
+    "daun pisang"
+   ],
+   "steps": [
+    "Gaul bahan.",
+    "Bungkus.",
+    "Kukus.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 160,
+   "title": "Sagol Pari Sabah",
+   "ingredients": [
+    "500 g ikan pari",
+    "5 cili",
+    "3 biji bawang",
+    "asam jawa"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus.",
+    "Masukkan ikan.",
+    "Reneh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 161,
+   "title": "Sago Gula Apong Borneo",
+   "ingredients": [
+    "1 cawan sagu",
+    "1 cawan gula apong",
+    "santan"
+   ],
+   "steps": [
+    "Rendam sagu.",
+    "Rebus.",
+    "Campur gula apong.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 162,
+   "title": "Mee Goreng Sabah",
+   "ingredients": [
+    "300 g mi",
+    "2 biji telur",
+    "100 g udang",
+    "3 ulas bawang putih",
+    "kicap"
+   ],
+   "steps": [
+    "Tumis bawang.",
+    "Masukkan udang.",
+    "Masukkan mi.",
+    "Goreng."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 163,
+   "title": "Acar Timun Sarawak",
+   "ingredients": [
+    "2 biji timun",
+    "3 cili",
+    "4 sudu besar cuka",
+    "2 sudu besar gula"
+   ],
+   "steps": [
+    "Hiris timun.",
+    "Rebus cuka dan gula.",
+    "Rendam.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 164,
+   "title": "Keceni Nenas Timpak Udang",
+   "ingredients": [
+    "1 biji nenas",
+    "200 g udang",
+    "5 cili",
+    "santan"
+   ],
+   "steps": [
+    "Hiris nenas.",
+    "Masak udang.",
+    "Gaul.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 165,
+   "title": "Laksa Sarawak",
+   "ingredients": [
+    "300 g bihun",
+    "200 g udang",
+    "1 biji telur dadar",
+    "taugeh",
+    "1 sudu besar pes laksa Sarawak",
+    "1 cawan santan",
+    "500 ml stok udang",
+    "daun ketumbar",
+    "limau"
+   ],
+   "steps": [
+    "Tumis pes laksa hingga wangi.",
+    "Masukkan stok udang dan santan, reneh 10 minit.",
+    "Susun bihun, taugeh, udang dan telur dadar.",
+    "Tuang kuah dan hidang dengan limau."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 166,
+   "title": "Mee Bandung",
+   "ingredients": [
+    "300 g mi",
+    "2 sudu besar kicap",
+    "1 cawan udang",
+    "sos"
+   ],
+   "steps": [
+    "Rebus mi.",
+    "Masak kuah.",
+    "Tuang.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 167,
+   "title": "Kerabu Pucuk Paku Kerang",
+   "ingredients": [
+    "300 g pucuk paku",
+    "200 g kerang",
+    "3 cili",
+    "kelapa"
+   ],
+   "steps": [
+    "Rebus pakis.",
+    "Masak kerang.",
+    "Gaul.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 168,
+   "title": "Kerabu Bunga Kantan Mangga Muda",
+   "ingredients": [
+    "2 biji bunga kantan",
+    "2 biji mangga muda",
+    "3 cili",
+    "gula",
+    "limau"
+   ],
+   "steps": [
+    "Hiris.",
+    "Gaul.",
+    "Rasa.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 169,
+   "title": "Keropok Lekor",
+   "ingredients": [
+    "500 g ikan tamban kisar",
+    "250 g tepung sagu",
+    "1 sudu teh garam",
+    "1 sudu teh gula",
+    "air secukupnya"
+   ],
+   "steps": [
+    "Gaul ikan, tepung, garam dan gula jadi doh.",
+    "Gulung jadi bentuk panjang.",
+    "Rebus hingga timbul dan masak.",
+    "Potong dan goreng sebelum hidang dengan cili."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 170,
+   "title": "Lompat Tikam Kelantan",
+   "ingredients": [
+    "2 cawan tepung beras",
+    "1 cawan gula",
+    "1 cawan santan"
+   ],
+   "steps": [
+    "Campur.",
+    "Kukus.",
+    "Sejukkan.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 171,
+   "title": "Dalca Tulang",
+   "ingredients": [
+    "500 g tulang kambing",
+    "3 biji bawang",
+    "1 cawan dalca (kacang dal)",
+    "2 sudu besar rempah dalca",
+    "2 biji tomato",
+    "asam jawa"
+   ],
+   "steps": [
+    "Rebus tulang 1 jam.",
+    "Masak dal hingga lembut.",
+    "Tumis bawang dan rempah, masukkan kuah.",
+    "Gaul semua dan reneh 20 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 172,
+   "title": "Pasembur Style Padang Kota",
+   "ingredients": [
+    "2 biji kentang",
+    "100 g tauhu",
+    "taugeh",
+    "kuah kacang"
+   ],
+   "steps": [
+    "Rebus.",
+    "Hiris.",
+    "Susun.",
+    "Tuang kuah."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 173,
+   "title": "Udang Masak Lemak Cili Api",
+   "ingredients": [
+    "500 g udang",
+    "2 cawan santan",
+    "8 cili api",
+    "3 biji bawang merah",
+    "2 cm kunyit",
+    "1 batang serai",
+    "garam"
+   ],
+   "steps": [
+    "Kisar cili, bawang dan kunyit.",
+    "Rebus bersama serai.",
+    "Masukkan udang dan santan.",
+    "Reneh 8 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 174,
+   "title": "Kuih Koci Pulut Hitam",
+   "ingredients": [
+    "2 cawan tepung pulut hitam",
+    "1 cawan kelapa parut",
+    "½ cawan gula Melaka",
+    "daun pisang"
+   ],
+   "steps": [
+    "Uli tepung dengan air.",
+    "Masak kelapa dan gula untuk inti.",
+    "Isi dan bungkus.",
+    "Kukus 20 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 175,
+   "title": "Badak Berendam",
+   "ingredients": [
+    "2 cawan tepung",
+    "1 cawan gula",
+    "santan"
+   ],
+   "steps": [
+    "Bulatkan doh.",
+    "Rebus.",
+    "Siram santan.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 176,
+   "title": "Bubur Sum Sum Durian",
+   "ingredients": [
+    "1 cawan sagu",
+    "durian",
+    "santan",
+    "gula"
+   ],
+   "steps": [
+    "Masak sagu.",
+    "Tambah durian.",
+    "Tuang santan.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 177,
+   "title": "Puding Koktail",
+   "ingredients": [
+    "2 tin koktail buah",
+    "2 cawan susu",
+    "¾ cawan gula",
+    "2 sudu besar agar-agar",
+    "sedikit warna"
+   ],
+   "steps": [
+    "Masak agar-agar, susu dan gula.",
+    "Masukkan buah koktail.",
+    "Tuang dalam acuan.",
+    "Sejukkan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 178,
+   "title": "Char Koay Teow Vegan",
+   "ingredients": [
+    "300 g kuey teow",
+    "1 biji lobak merah",
+    "100 g taugeh",
+    "3 ulas bawang putih",
+    "2 sudu besar kicap manis",
+    "1 sudu besar sos cili",
+    "daun kucai"
+   ],
+   "steps": [
+    "Tumis bawang putih.",
+    "Masukkan sayur.",
+    "Masukkan kuey teow dan sos.",
+    "Gaul api besar 2 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 179,
+   "title": "Bubur Pulut Hijau",
+   "ingredients": [
+    "1 cawan kacang hijau",
+    "1 cawan pulut",
+    "½ cawan gula Melaka",
+    "2 cawan santan",
+    "1 helai pandan"
+   ],
+   "steps": [
+    "Rebus kacang hijau dan pulut.",
+    "Masukkan gula Melaka.",
+    "Tuang santan.",
+    "Reneh hingga pekat."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 180,
+   "title": "Masak Ikan Tanah Liat",
+   "ingredients": [
+    "1 ekor ikan",
+    "3 cili",
+    "2 biji bawang",
+    "tanah liat"
+   ],
+   "steps": [
+    "Bungkus ikan.",
+    "Bakar.",
+    "Pecahkan tanah liat.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 181,
+   "title": "Gulai Lemak Lada Padi",
+   "ingredients": [
+    "600 g ikan tongkol",
+    "3 biji lada padi",
+    "10 biji lada padi tumbuk",
+    "1 cawan santan",
+    "3 biji bawang merah",
+    "2 cm kunyit",
+    "2 keping asam keping"
+   ],
+   "steps": [
+    "Tumbuk lada, bawang dan kunyit.",
+    "Rebus dengan air dan asam keping.",
+    "Masukkan ikan.",
+    "Tuang santan, reneh 10 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 182,
+   "title": "Gulai Asam Rom",
+   "ingredients": [
+    "500 g ikan",
+    "5 cili kering",
+    "3 biji bawang",
+    "2 cm kunyit",
+    "3 keping asam keping",
+    "1 cawan santan",
+    "garam"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus bersama asam.",
+    "Masukkan ikan.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 183,
+   "title": "Masak Ikan dan Pisang dalam Buluh",
+   "ingredients": [
+    "500 g ikan",
+    "2 biji pisang",
+    "buluh",
+    "garam"
+   ],
+   "steps": [
+    "Isi buluh.",
+    "Tutup.",
+    "Bakar.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 184,
+   "title": "La-tiang",
+   "ingredients": [
+    "2 cawan tepung",
+    "1 cawan gula",
+    "kelapa"
+   ],
+   "steps": [
+    "Campur.",
+    "Kukus.",
+    "Salut.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 185,
+   "title": "Ayam Panggang",
+   "ingredients": [
+    "1 ekor ayam",
+    "3 sudu besar kicap",
+    "2 sudu besar madu",
+    "3 ulas bawang putih",
+    "1 sudu besar lada hitam",
+    "garam"
+   ],
+   "steps": [
+    "Perap ayam dengan semua bahan 3 jam.",
+    "Bakar 200°C 50 minit.",
+    "Sapu madu semasa bakar.",
+    "Hidang panas."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 186,
+   "title": "Acar Ayam dan Telur",
+   "ingredients": [
+    "1/2 ekor ayam",
+    "5 telur rebus",
+    "5 ulas bawang putih kisar",
+    "2 bawang besar kisar",
+    "1 inci halia",
+    "1 sudu kecil biji sawi",
+    "lobak merah",
+    "bawang putih, bawang merah dan cili padi tambahan",
+    "1-2 senduk cili kisar",
+    "2 sudu besar sos cili",
+    "5 sudu besar cuka",
+    "1 mangkuk kecil air",
+    "1 sudu kecil serbuk perasa",
+    "1 sudu kecil garam",
+    "2 sudu kecil gula",
+    "kunyit dan garam untuk ayam"
+   ],
+   "steps": [
+    "Gaul ayam dengan kunyit dan garam. Goreng sampai keemasan, angkat dan ketepikan.",
+    "Tumis bawang putih dan bawang besar kisar sampai naik bau. Masukkan halia dan biji sawi.",
+    "Masukkan cili kisar dan tumis sampai pecah minyak. Jangan gopoh; kalau cepat melekat, kecilkan api.",
+    "Masukkan sos cili dan cuka. Kacau, kemudian masukkan ayam goreng.",
+    "Masukkan telur rebus dan satu mangkuk kecil air. Perasakan dengan garam, gula dan serbuk perasa.",
+    "Akhir sekali masukkan lobak merah, bawang tambahan dan cili padi. Reneh sekejap sampai sayur empuk ikut tahap yang anda suka."
+   ],
+   "source": "Kuali - Acar Ayam dan Telur, 21 Mei 2026",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null
+  },
+  {
+   "id": 187,
+   "title": "Terung Balado Ikan Bilis",
+   "ingredients": [
+    "2 biji terung",
+    "1 cawan ikan bilis",
+    "10 cili merah",
+    "3 biji bawang merah",
+    "3 ulas bawang putih",
+    "1 biji tomato",
+    "1 sudu besar gula"
+   ],
+   "steps": [
+    "Goreng terung dan ikan bilis.",
+    "Kisar cili, bawang dan tomato, tumis.",
+    "Masukkan gula.",
+    "Gaul dengan terung."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 188,
+   "title": "Ayam Masak Bawang",
+   "ingredients": [
+    "1/2 ekor ayam",
+    "2 bawang besar, hiris dan goreng",
+    "3 rempah sekawan",
+    "1 helai daun pandan",
+    "3 sudu besar serbuk kari",
+    "1 sudu besar serbuk cili",
+    "1/2 sudu besar serbuk jintan manis",
+    "sedikit air",
+    "1 sudu besar sos tiram",
+    "2 sudu besar sos cili",
+    "2 sudu besar sos tomato",
+    "garam",
+    "Bahan kisar: 2 bawang besar, 5 ulas bawang putih, 1/2 inci halia"
+   ],
+   "steps": [
+    "Kisar bawang besar, bawang putih dan halia sampai halus.",
+    "Gaul ayam dengan sedikit kunyit dan garam. Perap 30 minit.",
+    "Goreng bawang hiris sampai perang dan wangi. Angkat. Goreng ayam dalam kuali yang sama sampai masak dan keemasan, kemudian angkat.",
+    "Kurangkan minyak. Tumis rempah sekawan, pandan dan bahan kisar sampai wangi dan keemasan.",
+    "Masukkan serbuk kari, cili dan jintan manis dengan sedikit air. Kacau sampai rempah masak dan minyak mula keluar.",
+    "Masukkan sos tiram, sos cili, sos tomato dan garam. Kacau, kemudian masukkan ayam. Gaul sampai kuah menyalut ayam dan akhir sekali tabur bawang goreng."
+   ],
+   "source": "Kuali - Ayam Masak Bawang, 8 Oktober 2025",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null
+  },
+  {
+   "id": 189,
+   "title": "Ayam Masak Kicap Pekat",
+   "ingredients": [
+    "Bahan kisar: 2 bawang besar",
+    "5 ulas bawang putih",
+    "5 cili padi",
+    "2 inci halia",
+    "2 tangkai daun kari",
+    "2 batang serai, ketuk",
+    "kicap pekat secukupnya",
+    "kicap lemak manis secukupnya",
+    "sos tiram secukupnya",
+    "serbuk perasa jika perlu",
+    "ayam yang telah digoreng"
+   ],
+   "steps": [
+    "Kisar bawang besar, bawang putih, cili padi dan halia.",
+    "Panaskan sedikit minyak. Tumis bahan kisar bersama daun kari dan serai sampai layu dan wangi.",
+    "Masukkan kicap pekat, kicap lemak manis dan sos tiram sedikit demi sedikit. Kacau dan tengok warna serta rasa sebelum tambah lagi.",
+    "Teruskan masak sampai kuah jadi pekat, gelap dan mula melekat elok pada sudip.",
+    "Masukkan ayam goreng. Gaul sampai setiap bahagian ayam bersalut kuah kicap. Rasa dahulu sebelum tambah garam kerana kicap dan sos tiram sudah masin."
+   ],
+   "source": "Kuali - Ayam Masak Kicap Pekat, 12 September 2026",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null
+  },
+  {
+   "id": 190,
+   "title": "Asam Rebus Keladi",
+   "ingredients": [
+    "3 biji keladi",
+    "3 cili api",
+    "3 biji bawang merah",
+    "4 keping asam keping",
+    "1 sudu teh belacan",
+    "garam"
+   ],
+   "steps": [
+    "Kupas, potong keladi.",
+    "Kisar cili, bawang dan belacan.",
+    "Rebus bersama asam.",
+    "Masukkan keladi, reneh 15 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 191,
+   "title": "Daging Goreng Berlengas Kelantan",
+   "ingredients": [
+    "600 g daging",
+    "10 cili",
+    "5 biji bawang",
+    "kelapa"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Goreng daging.",
+    "Gaul.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 192,
+   "title": "Daging Kurma Kenduri",
+   "ingredients": [
+    "600 g daging",
+    "kurma",
+    "santan",
+    "rempah"
+   ],
+   "steps": [
+    "Tumis rempah.",
+    "Masukkan daging.",
+    "Tuang santan.",
+    "Reneh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 193,
+   "title": "Daging Rebus Air Asam",
+   "ingredients": [
+    "600 g daging",
+    "4 keping asam keping",
+    "8 cili api",
+    "3 biji bawang merah",
+    "2 cm halia",
+    "garam"
+   ],
+   "steps": [
+    "Rebus daging hingga lembut.",
+    "Kisar rempah.",
+    "Masukkan rempah dan asam keping.",
+    "Reneh 20 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 194,
+   "title": "Ikan Tenggiri Masak Cincuan",
+   "ingredients": [
+    "2 ekor tenggiri",
+    "3 cm halia",
+    "4 sudu besar cuka",
+    "2 sudu besar kicap",
+    "2 biji cili merah",
+    "daun bawang"
+   ],
+   "steps": [
+    "Goreng ikan.",
+    "Masak cuka, kicap, halia.",
+    "Masukkan cili.",
+    "Tuang atas ikan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 195,
+   "title": "Ikan Kembung Air Asam",
+   "ingredients": [
+    "6 ekor kembung",
+    "5 keping asam keping",
+    "8 cili api",
+    "3 biji bawang merah",
+    "2 batang serai",
+    "garam"
+   ],
+   "steps": [
+    "Kisar cili dan bawang.",
+    "Rebus dengan air dan serai.",
+    "Masukkan asam dan ikan.",
+    "Reneh 10 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 196,
+   "title": "Pakcoy Tumis Bawang Putih",
+   "ingredients": [
+    "3 rumpun pakcoy",
+    "3 ulas bawang putih",
+    "1 sudu besar minyak",
+    "½ sudu teh garam"
+   ],
+   "steps": [
+    "Tumis bawang putih.",
+    "Masukkan pakcoy.",
+    "Tambah garam.",
+    "Masak 2 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 197,
+   "title": "Gulai Sayur Campur",
+   "ingredients": [
+    "2 cawan sayur campur (kobis, kacang, lobak)",
+    "3 sudu besar serbuk kari",
+    "1 biji bawang",
+    "1 cawan santan",
+    "garam"
+   ],
+   "steps": [
+    "Tumis bawang dan serbuk kari.",
+    "Masukkan sayur.",
+    "Tambah air.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 198,
+   "title": "Pucuk Ubi Masak Lemak",
+   "ingredients": [
+    "300 g pucuk ubi",
+    "1 cawan santan",
+    "5 cili api",
+    "3 biji bawang merah",
+    "1 sudu besar ikan bilis",
+    "garam"
+   ],
+   "steps": [
+    "Kisar cili dan bawang.",
+    "Rebus dengan ikan bilis.",
+    "Masukkan pucuk ubi.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 199,
+   "title": "Kailan Ikan Masin",
+   "ingredients": [
+    "1 ikat kailan",
+    "50 g ikan masin",
+    "3 ulas bawang putih",
+    "1 sudu besar minyak",
+    "sedikit gula"
+   ],
+   "steps": [
+    "Goreng ikan masin.",
+    "Tumis bawang putih.",
+    "Masukkan kailan.",
+    "Gaul dan masak 3 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 200,
+   "title": "Peria Masak Lemak Kuning Udang",
+   "ingredients": [
+    "2 biji peria",
+    "100 g udang",
+    "1 cawan santan",
+    "2 cm kunyit",
+    "5 cili api",
+    "3 biji bawang merah"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus bersama air.",
+    "Masukkan peria dan udang.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 201,
+   "title": "Gulai Ikan Tongkol",
+   "ingredients": [
+    "600 g ikan tongkol",
+    "3 sudu besar serbuk kari ikan",
+    "1 biji bawang",
+    "2 keping asam keping",
+    "1 cawan santan",
+    "garam"
+   ],
+   "steps": [
+    "Tumis bawang dan serbuk kari.",
+    "Tambah air dan asam.",
+    "Masukkan ikan.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 202,
+   "title": "Gulai Daging Biryani Johor",
+   "ingredients": [
+    "1 kg daging",
+    "3 cawan beras",
+    "rempah biryani",
+    "santan"
+   ],
+   "steps": [
+    "Tumis rempah.",
+    "Masukkan daging.",
+    "Masak.",
+    "Hidang dengan nasi."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 203,
+   "title": "Gulai Nangka Tumis Darat",
+   "ingredients": [
+    "500 g nangka muda",
+    "1 cawan santan",
+    "5 cili kering",
+    "3 biji bawang",
+    "2 cm kunyit",
+    "1 cawan kelapa sangrai"
+   ],
+   "steps": [
+    "Rebus nangka.",
+    "Kisar rempah, tumis.",
+    "Masukkan nangka.",
+    "Masukkan kerisik dan santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 204,
+   "title": "Singgang Tenggiri",
+   "ingredients": [
+    "2 ekor tenggiri",
+    "4 biji cili api",
+    "3 biji bawang merah",
+    "2 cm halia",
+    "2 keping asam keping",
+    "garam"
+   ],
+   "steps": [
+    "Rebus air, rempah dan asam.",
+    "Masukkan ikan.",
+    "Reneh 10 minit.",
+    "Rasa garam."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 205,
+   "title": "Masak Lemak Sotong Daun Pegaga",
+   "ingredients": [
+    "400 g sotong",
+    "1 cawan santan",
+    "1 genggam daun pegaga",
+    "5 cili api",
+    "3 biji bawang",
+    "2 cm kunyit"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus.",
+    "Masukkan sotong.",
+    "Masukkan santan dan pegaga."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 206,
+   "title": "Ayam Masak Lemak Cili Padi Nenas",
+   "ingredients": [
+    "600 g ayam",
+    "½ biji nanas",
+    "1½ cawan santan",
+    "8 cili padi",
+    "3 biji bawang merah",
+    "2 cm kunyit",
+    "garam"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus ayam.",
+    "Masukkan nanas.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 207,
+   "title": "Singgang Sotong Bendi",
+   "ingredients": [
+    "400 g sotong",
+    "10 biji bendi",
+    "5 biji bawang",
+    "4 cili api",
+    "1 sudu besar asam jawa",
+    "garam"
+   ],
+   "steps": [
+    "Rebus air dan rempah.",
+    "Masukkan sotong.",
+    "Masukkan bendi.",
+    "Reneh 10 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 208,
+   "title": "Gulai Masam Tempoyak Ayam",
+   "ingredients": [
+    "600 g ayam",
+    "4 sudu besar tempoyak",
+    "5 cili",
+    "serai"
+   ],
+   "steps": [
+    "Kisar.",
+    "Rebus.",
+    "Masukkan ayam.",
+    "Reneh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 209,
+   "title": "Ikan Patin Tempoyak",
+   "ingredients": [
+    "500 g ikan patin",
+    "tempoyak",
+    "cili",
+    "kunyit"
+   ],
+   "steps": [
+    "Kisar.",
+    "Masak.",
+    "Masukkan ikan.",
+    "Reneh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 210,
+   "title": "Cencaru Bakar Sambal Tempoyak",
+   "ingredients": [
+    "2 ekor ikan cencaru",
+    "sambal tempoyak",
+    "limau"
+   ],
+   "steps": [
+    "Perap ikan.",
+    "Bakar.",
+    "Gaul sambal.",
+    "Hidang."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 211,
+   "title": "Asam Pedas Kepala Ikan Mayong",
+   "ingredients": [
+    "1 kepala ikan",
+    "asam keping",
+    "cili",
+    "serai"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus.",
+    "Masukkan kepala.",
+    "Reneh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 212,
+   "title": "Lokan Masak Lemak Berempah",
+   "ingredients": [
+    "500 g lokan",
+    "santan",
+    "cili",
+    "kunyit"
+   ],
+   "steps": [
+    "Bersihkan.",
+    "Rebus.",
+    "Masukkan santan.",
+    "Masak."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 213,
+   "title": "Udang Galah Masak Lemak Cili Api",
+   "ingredients": [
+    "4 ekor udang galah",
+    "2 cawan santan",
+    "10 cili api",
+    "3 biji bawang merah",
+    "2 cm kunyit",
+    "garam"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Rebus.",
+    "Masukkan udang.",
+    "Masukkan santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 214,
+   "title": "Daging Gulai Kawah Kelantan",
+   "ingredients": [
+    "1 kg daging",
+    "santan",
+    "rempah gulai",
+    "kerisik"
+   ],
+   "steps": [
+    "Tumis rempah.",
+    "Masukkan daging.",
+    "Tuang santan.",
+    "Reneh."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true,
+   "draft_level": "outline"
+  },
+  {
+   "id": 215,
+   "title": "Umbut Kelapa Masak Lemak Putih",
+   "ingredients": [
+    "300 g umbut kelapa",
+    "1 cawan santan putih",
+    "3 biji bawang merah",
+    "2 ulas bawang putih",
+    "garam"
+   ],
+   "steps": [
+    "Hiris umbut.",
+    "Rebus bawang.",
+    "Masukkan umbut.",
+    "Tuang santan."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 216,
+   "title": "Gulai Lemak Telur Itik",
+   "ingredients": [
+    "6 biji telur itik",
+    "2 cawan santan",
+    "8 cili api",
+    "3 biji bawang",
+    "2 cm kunyit",
+    "garam"
+   ],
+   "steps": [
+    "Rebus telur, kupas.",
+    "Kisar rempah, rebus dengan santan.",
+    "Masukkan telur.",
+    "Reneh 10 minit."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 217,
+   "title": "Rendang Maman Ayam Kampung",
+   "ingredients": [
+    "1 ekor ayam kampung",
+    "3 cawan santan",
+    "1 cawan daun maman",
+    "5 cili api",
+    "4 biji bawang",
+    "1 sudu besar kerisik"
+   ],
+   "steps": [
+    "Kisar rempah.",
+    "Masak ayam.",
+    "Masukkan santan.",
+    "Masukkan maman dan kerisik."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 218,
+   "title": "Pindang Ikan dan Timun",
+   "ingredients": [
+    "3 ekor ikan",
+    "2 biji timun",
+    "5 cili api",
+    "3 biji bawang merah",
+    "2 keping asam keping",
+    "garam"
+   ],
+   "steps": [
+    "Kisar cili dan bawang.",
+    "Rebus dengan asam.",
+    "Masukkan ikan.",
+    "Tambah timun."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  },
+  {
+   "id": 219,
+   "title": "Ikan Keli Goreng Berempah",
+   "ingredients": [
+    "4 ekor ikan keli",
+    "2 sudu besar kunyit",
+    "1 sudu besar serbuk ketumbar",
+    "1 sudu teh garam",
+    "minyak"
+   ],
+   "steps": [
+    "Perap ikan dengan rempah.",
+    "Biarkan 30 minit.",
+    "Goreng.",
+    "Tos."
+   ],
+   "source": "Dilengkapkan oleh Claude daripada kaedah standard (buku hanya beri senarai asas) - sila semak",
+   "complete": true,
+   "generic_placeholder": false,
+   "nutrition": null,
+   "drafted": true
+  }
+ ]
+}

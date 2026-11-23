@@ -1,69 +1,33 @@
-# Equilibra
+# Equilibra 🥗
 
-Malaysia-first, nutrition-first wellness app prototype. Static site, no build step, no runtime dependencies.
-
-> **Not medical advice.** Food values, allergen tags and daily targets in this repo are synthetic development data. Do not rely on the allergen tags for real allergy decisions; always check actual ingredients.
-
-## Features (current)
-
-- **Today**: Next Best Action with a "Why?" explanation, remaining protein/fibre/hydration, next-meal window
-- **Allergy-aware suggestions**: foods containing your allergens (e.g. soy) are never suggested. If the best-fitting food is blocked, the most nutritionally similar allergen-free food is offered instead, with a note explaining the swap (`src/domain/allergy.js`, `src/domain/recommend.js`)
-- **Profile**: name, age, height, weight feed the greeting, daily targets, hydration goal, suggestions and Coach
-- **Nutrition**: search and log foods (S/M/L portion estimates), meal history
-- **Scan**: photo to review to correct to portion to log, using a clearly labelled **mock** recognizer
-- **Health**: hydration, optional check-ins, breathing reset (respects Reduce Motion)
-- **Coach**: rule-based preview (no LLM)
-- Hide calories, Focus-Friendly Mode, data export and delete. All data stays in the browser (`localStorage`)
-
-## Design
-
-Calm, organic-modern interface built on CSS design tokens (`src/styles.css`): warm neutral surfaces, deep botanical green, system font stack, SVG icons, bottom-sheet dialogs, toasts, intentional dark mode, 44px touch targets and visible focus rings.
-
-Motion communicates change, never decoration only:
-- activity rings, bars and the water glass animate from their previous value to the new one; counters count up
-- screens rise in with a short stagger on tab change only (not on every update)
-- meal-rhythm rail pulses on the next meal; logging a meal triggers a soft falling-leaf burst
-- scan viewfinder with a sweeping beam and staged "analysing" status; Coach typing indicator; breathing orb
-- everything respects `prefers-reduced-motion` (animations off, values update instantly)
+Malaysia-first nutrition and wellbeing companion (web/PWA prototype). Nutrition first; sleep, hydration and mood provide context. Not a medical product.
 
 ## Run
-
-ES modules need a web server (opening `index.html` directly will not work):
-
 ```bash
-npm start            # python3 -m http.server 8080, then open http://localhost:8080
-npm test             # Node >= 18, uses the built-in test runner
+npx serve .        # or: python3 -m http.server 8000
+```
+Open http://localhost:8000. (Must be served over http so `data/recipes.json` loads.)
+
+## Deploy to GitHub Pages
+Push to `main`, then Settings → Pages → Source: **GitHub Actions**. The included workflow publishes the site.
+
+## What works now
+Today screen with Next Best Action and animated rings, manual food logging, mock photo scan flow, hydration, optional check-in, breathing reset, Coach (rule-based), profile + demo targets, allergy hard filters, hide-calories, Focus-Friendly and Low-Energy modes, Reduce Motion, dark mode, export/delete data, and 219 dishes from Ensiklopedia Masakan Malaysia Edisi 7.
+
+## Data honesty
+- `data/recipes.json` – extracted from the book by `scripts/extract_recipes.py`. Only **5** recipes have full quantities and steps (Nasi lemak, Ayam percik, Acar Ayam dan Telur, Ayam Masak Bawang, Ayam Masak Kicap Pekat); the other 214 are base ingredient lists the book marks for specific-recipe review.
+- `data/recipes_edisi8_complete6.json` – six complete recipes from the earlier edition.
+- `data/ingredients_index.json` – ingredient names ready to match to sourced nutrition.
+- **The book has no nutrition values.** `nutrition` is `null` everywhere. Food values in `index.html` (`F` array) are labelled **demo placeholders**, and targets are demo formulas. Replace with sourced data (e.g. MyFCD) before real use.
+- Spoon/cup measures are not converted to grams without a verified source.
+
+## Re-extract
+```bash
+python3 scripts/extract_recipes.py path/to/book.pdf data/recipes.json   # needs poppler-utils
 ```
 
-## Structure
+## Docs
+`docs/ARCHITECTURE.md` (stack decision), `ROADMAP.md` (status and next steps).
 
-```
-index.html
-src/
-  app.js              UI and event handlers
-  styles.css          design tokens, light/dark
-  storage.js          localStorage state (sanitised on load)
-  icons.js            inline SVG icon set
-  util.js
-  data/foods.js       DEV food data (replace with sourced records)
-  domain/
-    allergy.js        hard allergen filter + nutrition-similarity substitutes
-    recommend.js      gap-based ranking, applies allergy filter before output
-    nutrition.js      targets, portion scaling, daily totals
-tests/                node:test unit tests
-```
-
-## How allergy substitution works
-
-1. Every food carries allergen tags. Foods matching the user's allergy list are unsafe.
-2. Foods are ranked by how much of today's remaining protein and fibre they cover.
-3. An unsafe food is never returned. In its place, `substitutesFor` picks the allergen-free food with the smallest scaled distance over kcal, protein, carbs, fat and fibre.
-4. The UI says "Instead of X (contains soy)" so the swap is transparent.
-
-## Deploy on GitHub Pages
-
-Push to GitHub, then Settings > Pages > Deploy from branch > `main` / root.
-
-## Roadmap
-
-Verified Malaysian nutrition source with provenance, real vision provider behind an interface, goals, weekly summary, Bahasa Melayu localization, backend and auth, notifications, safety policy service.
+## Recipe completeness
+All 219 entries now have ingredients and steps, but only 5 come from the book. 135 are drafted (batches 1-3, short but usable) and 79 are `draft_level: "outline"` (batch 4): very short, quantities mostly missing. Verify every drafted/outline entry against a real recipe source before relying on it.
