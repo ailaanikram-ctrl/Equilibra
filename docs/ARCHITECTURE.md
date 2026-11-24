@@ -13,5 +13,3 @@
 - **Home atmosphere:** `phase()` maps the device time to dawn, day, dusk or night; `scene()` draws the matching animated sky and `greet()` picks the Malay greeting. `tickSky()` refreshes both every 30 seconds. Settings has a preview of each time of day.
 - **Allergies:** `ALG` lists the built-in allergens and `ALK` maps each to ingredient keywords for recipes; foods carry explicit tags. `alHit()` also matches custom entries by name. Suggestions are filtered, and logging a flagged food asks for confirmation.
 - **Icons:** the four bottom-tab icons keep their original set and animation (`TI`); every other icon comes from the `IC2` line set.
-
-- **Motion:** easing tokens (`--e-out`, `--e-spring`, `--e-io`) are shared by all animations. `go()` decides whether a render is a screen change (full entrance) or an update (soft mode: values animate from their previous state, scroll position is kept). `fx()` handles scroll-triggered reveals with an IntersectionObserver. The bottom-tab dock and its icons are intentionally unchanged.
