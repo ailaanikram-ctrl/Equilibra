@@ -9,3 +9,7 @@
 - **Safety:** allergies are hard filters applied before ranking. No diagnosis, no shame language, demo targets are not clinical advice. Missing data is never scored as poor.
 - **Accessibility:** labelled controls, scalable text, Reduce Motion support, text alternatives for charts.
 - **Production path:** typed client (React Native or similar), typed API, relational database, S3-compatible storage, job scheduler for reminders, as a modular monolith.
+
+- **Home atmosphere:** `phase()` maps the device time to dawn, day, dusk or night; `scene()` draws the matching animated sky and `greet()` picks the Malay greeting. `tickSky()` refreshes both every 30 seconds. Settings has a preview of each time of day.
+- **Allergies:** `ALG` lists the built-in allergens and `ALK` maps each to ingredient keywords for recipes; foods carry explicit tags. `alHit()` also matches custom entries by name. Suggestions are filtered, and logging a flagged food asks for confirmation.
+- **Icons:** the four bottom-tab icons keep their original set and animation (`TI`); every other icon comes from the `IC2` line set.

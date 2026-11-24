@@ -1,6 +1,8 @@
 # Roadmap
 
 ## Done
+- Time-of-day home atmosphere, correct Malay greeting, dashboard tiles (hydration, calories in and out, activity, wellness), activity logging and one-minute reset.
+- Personalised what-to-eat and what-to-cook suggestions; expanded allergies with custom entries; redesigned profile; new line icon set.
 - Today dashboard: progress rings, next best action, live day balance, meal timeline, eating behaviour, trend, improvement suggestions.
 - Nutrition: scan entry at the top, manual search and logging, daily completion, recipe browser, weekly view.
 - Health: hydration, check-in, breathing reset. Coach with fixed rules.

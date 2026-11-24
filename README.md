@@ -14,18 +14,18 @@ Open http://localhost:8000. The app must be served over http so `data/recipes.js
 3. Push to `main`; the workflow in `.github/workflows/pages.yml` publishes the site.
 
 ## What the app does
-- **Today (dashboard):** a plate of four progress rings, next best action with a plain-language reason, and a live dashboard that processes your logs: day balance with a transparent breakdown (protein, fibre and water pace against the time of day, plus meal spacing), a timeline of your meals, a read on your eating behaviour, a recent trend, and ranked suggestions for what to improve. It refreshes on every action and every 30 seconds.
-- **Nutrition:** scan a meal (photo, search or repeat last) sits at the top. Below it: food search and logging, daily completion, today's meals, 219 recipes from the Ensiklopedia Masakan Malaysia, and a weekly view.
-- **Health:** hydration, an optional energy and mood check-in, and a breathing reset.
+- **Today (daily dashboard):** a sky that follows your device clock (sunrise and morning, daylight, sunset, moon and stars) with the correct Malay greeting: Selamat Pagi, Selamat Tengah Hari, Selamat Petang or Selamat Malam. It updates on its own. Below it: four live tiles for hydration against your daily water target, calories in against estimated burn, activity and wellness progress; the next best action; a plate of nutrition rings; and a live dashboard with a day balance and its breakdown, a meal timeline, a read on your eating habits, a recent trend, and ranked suggestions for what to improve.
+- **Nutrition:** Scan sits at the top and nowhere else. Tabs: Log (search, daily completion, today's meals), For you (what to eat and what to cook, based on your goal, eating style, allergies and what you still need today), Recipes (219 dishes) and Weekly.
+- **Health:** Water (animated glass), Mind (check-in and a one-minute breathing reset), Activity (log walks, runs and more; burn is estimated from activity, time and weight and never changes your eating targets).
 - **Coach:** answers questions about your day from your logged data using fixed rules.
-- **Profile and settings:** name, age, height, weight; allergies as hard filters; hide calories; Focus-Friendly mode; Low-Energy mode; Reduce Motion; light and dark theme; export and delete your data.
+- **Profile:** name, age, height, weight, goal, eating style; allergies (soy, seafood, shellfish, dairy, eggs, peanuts, tree nuts, wheat/gluten, sesame, plus your own custom ones) that filter suggestions and warn before you log a food; switches for hide calories, Focus-Friendly mode, Low-Energy mode, Reduce Motion and dark theme; a preview of the four times of day; export and delete your data.
 - All data stays in the browser (localStorage). Nothing is sent anywhere.
 
 ## Data honesty
 - `data/recipes.json` has 219 dishes extracted from the Ensiklopedia (Edisi 7). Only 5 have full quantities and steps in the book. Six more come from the Ministry of Health Resipi Sihat booklet with quantities and per-serving nutrition as published (`web_sourced: true`). The rest were completed from standard cooking methods (`drafted: true`), and the shortest are marked `draft_level: "outline"`. Verify every drafted or outline recipe against a trusted source before relying on it.
 - Nutrition is `null` unless a sourced value is published. Spoon and cup measures are not converted to grams without a verified source.
 - The food values in `index.html` (the `F` array) are labelled demo placeholders, and daily targets are demo formulas. Replace them with sourced data (for example MyFCD) before real use.
-- The meal scan is a clearly labelled development placeholder; it does not recognise food.
+- The meal scan is a clearly labelled development placeholder; it does not recognise food. Allergy checks read food tags and recipe ingredient text, so always check labels and sauces.
 
 ## Files
 ```
