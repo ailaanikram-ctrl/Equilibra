@@ -21,6 +21,9 @@ Open http://localhost:8000. The app must be served over http so `data/recipes.js
 - **Profile:** name, age, height, weight, goal, eating style; allergies (soy, seafood, shellfish, dairy, eggs, peanuts, tree nuts, wheat/gluten, sesame, plus your own custom ones) that filter suggestions and warn before you log a food; switches for hide calories, Focus-Friendly mode, Low-Energy mode, Reduce Motion and dark theme; a preview of the four times of day; export and delete your data.
 - All data stays in the browser (localStorage). Nothing is sent anywhere.
 
+## Motion and interaction
+A single motion system (shared easing and timing) drives the app: a short opening animation, direction-aware screen transitions, scroll-triggered reveals with staggered lists, parallax on the sky, a condensed header that appears as you scroll, count-up numbers and rings that glide from their previous value, a spring-feel on buttons with a soft ripple, draggable bottom sheets, and an Undo toast after logging food. Updating a value (for example adding water) keeps your scroll position and does not replay the whole screen. Everything respects the device's Reduce Motion setting and the in-app switch.
+
 ## Data honesty
 - `data/recipes.json` has 219 dishes extracted from the Ensiklopedia (Edisi 7). Only 5 have full quantities and steps in the book. Six more come from the Ministry of Health Resipi Sihat booklet with quantities and per-serving nutrition as published (`web_sourced: true`). The rest were completed from standard cooking methods (`drafted: true`), and the shortest are marked `draft_level: "outline"`. Verify every drafted or outline recipe against a trusted source before relying on it.
 - Nutrition is `null` unless a sourced value is published. Spoon and cup measures are not converted to grams without a verified source.
