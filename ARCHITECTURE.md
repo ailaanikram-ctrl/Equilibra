@@ -1,0 +1,21 @@
+# Architecture decisions (current prototype)
+
+- **Client:** a single-file web app in plain HTML, CSS and JavaScript. No build step, so it runs from any static host (GitHub Pages).
+- **Storage:** browser localStorage. Data never leaves the device. Export and delete are in the profile sheet.
+- **Data:** static JSON in `data/`. Nutrition stays null until a sourced value is imported.
+- **Logic:** deterministic rules for targets, nutrient gaps, allergy filtering, suggestions, meal timing, day balance and dashboard insights. The Coach only explains results these rules produce.
+- **Dashboard:** `dstat()` computes pace against time of day (assuming a 7:00 AM to 10:00 PM day), meal gaps, energy or protein distribution by period, recent trend and ranked improvements. `dashHTML()` renders it; `tickDash()` refreshes it every 30 seconds.
+- **Scan:** a placeholder adapter behind `analyse()`. Replace it with a real image-recognition provider; the review, portion and confirmation steps already exist.
+- **Safety:** allergies are hard filters applied before ranking. No diagnosis, no shame language, demo targets are not clinical advice. Missing data is never scored as poor.
+- **Accessibility:** labelled controls, scalable text, Reduce Motion support, text alternatives for charts.
+- **Production path:** typed client (React Native or similar), typed API, relational database, S3-compatible storage, job scheduler for reminders, as a modular monolith.
+
+- **Home atmosphere:** `phase()` maps the device time to dawn, day, dusk or night; `scene()` draws the matching animated sky and `greet()` picks the Malay greeting. `tickSky()` refreshes both every 30 seconds. Settings has a preview of each time of day.
+- **Allergies:** `ALG` lists the built-in allergens and `ALK` maps each to ingredient keywords for recipes; foods carry explicit tags. `alHit()` also matches custom entries by name. Suggestions are filtered, and logging a flagged food asks for confirmation.
+- **Icons:** the four bottom-tab icons keep their original set and animation (`TI`); every other icon comes from the `IC2` line set.
+
+- **Motion:** easing tokens (`--e-out`, `--e-spring`, `--e-io`) are shared by all animations. `go()` decides whether a render is a screen change (full entrance) or an update (soft mode: values animate from their previous state, scroll position is kept). `fx()` handles scroll-triggered reveals with an IntersectionObserver. The bottom-tab dock and its icons are intentionally unchanged.
+
+- **Weather:** `wx()` returns the manual choice, fresh live data (Open-Meteo `current` weather code, mapped by `wxcode()` to clear, cloudy, rain, storm or haze) or a neutral default. `scene()` draws each time-and-weather combination; `MOOD` supplies the matching line. The request is opt-in and sends only coordinates rounded to two decimals. Where network calls are blocked the app falls back to the manual setting.
+- **Routine and reminders:** `RT()` holds wake, meal and bedtime times; `win()` and the expected-progress marker read from it. `remind()` uses an in-page timer (and the Notification API if permitted), so it works only while the app is open.
+- **Onboarding:** `onboard()` is a skippable four-step flow shown once; existing users with a name are marked as done.

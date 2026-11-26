@@ -1,6 +1,7 @@
 # Roadmap
 
 ## Done
+- Weather-aware sky and tips (live opt-in or manual), first-run onboarding, editable routine, reminders, recent foods, water quick amounts.
 - Time-of-day home atmosphere, correct Malay greeting, dashboard tiles (hydration, calories in and out, activity, wellness), activity logging and one-minute reset.
 - Personalised what-to-eat and what-to-cook suggestions; expanded allergies with custom entries; redesigned profile; new line icon set.
 - Today dashboard: progress rings, next best action, live day balance, meal timeline, eating behaviour, trend, improvement suggestions.
